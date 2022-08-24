@@ -1,0 +1,158 @@
+.yee-dolphin-2-point-1{
+    left: 26%;
+    top:35%;
+}
+.yee-dolphin-2-point-2{
+    right: 27%;
+    top:35%;
+}
+.yee-dolphin-2-point-3{
+    left: 17.5%;
+    top:65%;
+}
+.yee-dolphin-2-point-4{
+    right: 17.5%;
+    top:65%;
+}
+.yee-dolphin-2-point-5{
+    left: 47%;
+    top:86%;
+}
+.yee-wonder-3-float-div-body {
+    width: auto;
+}
+.yee-cherry-4-special-item h3{
+    max-width: 90px;
+}
+.yee-dolphin-7-step {
+    top: 61%;
+}
+
+.yee-mijia-2-special {
+    top: 60% !important;
+    width: auto !important;
+}
+.yee-wonder-last-div{
+    display: none;
+}
+.yee-cherry-4-special-item{
+    font-size: 12px;
+    opacity: 0.6;
+}
+.yee-cherry-4 {
+    left: 10%;
+    width: 80%;
+}
+.yee-cherry-5{
+    width: auto;
+}
+.yee-cherry-5 .yee-cherry-5-title {
+    color: #333333;
+    background: none;
+}
+.yee-cherry-7-actions h3{
+    font-size: 12px !important;
+    opacity: 0.6;
+}
+.yee-dolphin-6 {
+    top: 7%;
+}
+.yee-dolphin-7-step h3{
+    font-size: 12px !important;
+}
+.yee-wonder-8-step h3{
+    font-size: 12px !important;
+    line-height: 15px;
+}
+.yee-wonder-10{
+    width: 80%;
+    left: 10%;
+}
+.yee-mijia-9-animate{
+    top:53% !important;
+}
+.yee-mijia-9-animate-bg-01{
+    margin-left: -150px !important;
+}
+.yee-mijia-9-animate-bg-02{
+    margin-left: -100px !important;
+}
+.yee-mijia-9-animate-bg-03{
+    margin-left: -100px !important;
+}
+.yee-mijia-9-animate-bg-04{
+    margin-left: 15px !important;
+}
+.yee-mijia-10-div {
+    background-color: #EFEFEF;
+    height: 600px;
+}
+.yee-mijia-10-honors{
+    bottom: 25% !important;
+}
+.yee-pitaya-10 {
+    right: 20%;
+    width: 60%;
+}
+.yee-pitaya-11-more-seprise span {
+    font-size: 12px;
+}
+.yee-feuture-nav-item{
+    font-size: 12px !important;
+    opacity: 0.6;
+}
+.yee-mijia-5-mode-controller .am-thumbnail-caption{
+    padding: 0;
+}
+.yee-pitaya-7{
+    width: 40%;
+}
+.yee-pitaya-9{
+    width: 40%;
+}
+.yee-mijia-3-video.play-video{
+    display: none;
+}
+
+/* 以后需要改回去，原字号53Px */
+.yee-slider .yee-slider-title {
+    font-size: 43px;
+}
+@media only screen and (max-width: 768px) {
+    .yee-slider .yee-slider-desc {
+        position: absolute;
+        text-align: left;
+        background-color: transparent;
+        top: 30%;
+        left: 5%;
+        line-height: 1;
+    }
+    .yee-slider-desc .yee-slider-title{
+        font-size: 1.5rem;
+    }
+    .yee-slider-desc .yee-slider-subtitle{
+        font-size: 1rem;
+    }
+    .yee-timeline-content{
+        min-height: 24rem !important;
+        height: inherit;
+    }
+}
+.yee-temp-buy-button {
+    display: block;
+    margin-top: 45px;
+    background-image: url('../img/button.png');
+    height: 44px;
+    width: 155px;
+    text-align: center;
+    line-height: 44px;
+    text-decoration: none;
+}
+.yee-temp-buy-button a{
+    font-size: 18px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.yee-wonder-1{
+    top: 5%;
+}

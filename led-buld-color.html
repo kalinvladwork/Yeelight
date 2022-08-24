@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html class="js cssanimations">
+
+ <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>LED Bulb (Color)-Special light for you-Yeelight</title>
+      <meta name="keywords" content="LED Bulb (Color),Special light for you">
+      <meta name="description" content="LED Bulb (Color),Special light for you">
+      <meta name="author" content="Yeelight">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+      <!-- Set render engine for 360 browser -->
+      <meta name="renderer" content="webkit">
+      <!-- No Baidu Siteapp-->
+      <meta http-equiv="Cache-Control" content="no-siteapp">
+      <link rel="icon" type="image/png" href="img/favicon.png">
+      <!-- Fallback to homescreen for Chrome <39 on Android -->
+      <meta name="mobile-web-app-capable" content="yes">
+      <meta name="application-name" content="Yeelight.com">
+      <link rel="icon" sizes="192x192" href="img/chrome-touch-icon-192x192.png">
+      <!-- Add to homescreen for Safari on iOS -->
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="black">
+      <meta name="apple-mobile-web-app-title" content="Yeelight.com">
+      <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+      <meta name="msapplication-TileColor" content="#0e90d2">
+      <!-- <link rel="stylesheet" href="css/font-awesome.min.css"> -->
+      <link rel="stylesheet" href="css/amazeui.min.css">
+      <link rel="stylesheet" href="css/new-main.css">
+      <link rel="stylesheet" href="css/new-main-en.css">
+     <link rel="stylesheet" href="css/media.css">
+  </head>
+
+<body class="am-with-topbar-fixed-top" cz-shortcut-listen="true">
+<header class="am-topbar am-topbar-fixed-top">
+    <div class="yee-page-max-width">
+        <div class="am-topbar-brand"> <a href="index.html" class="am-text-ir">Yeelight</a> </div>
+        <button id="yee-sm-bar-menu" class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-default am-show-sm-only" data-am-offcanvas="{target: '#doc-topbar-offcanvas',effect: 'push'}"> <span class="am-icon-bars"></span> </button>
+        <div class="am-collapse am-topbar-collapse" id="doc-topbar-collapse">
+            <ul class="am-nav am-nav-pills am-topbar-nav">
+                <li class="am-dropdown" data-am-dropdown="">
+                    <a class="am-dropdown-toggle" data-am-dropdown-toggle="" href="#" target="" id="yee-show-product">
+                        ТОВАРИ
+                        <span class="am-icon-caret-down"></span>
+                    </a>
+                </li>
+                <li class="main-nav-feuture">
+                    <a href="tech-life.html" class="max_width" target="">ЖИТТЯ В РИТМІ ТЕХНОЛОГІЙ</a>
+                </li>
+            </ul>
+        </div>
+        <div class="yee-dropdown-content" id="yee-dropdown-content" style="display: none;">
+            <div class="yee-dropdown-top">
+                <div class="am-g am-g-collapse">
+                    <div class="am-u-md-2">
+                        <a href="bedside-lamp.html" target="" class="">
+                            <img src="img/cherry.png">
+                        </a>
+                    </div>
+                    <div class="am-u-md-2">
+                        <a href="led-buld-white.html" target="" class="">
+                            <img src="img/dolphin.png">
+                        </a>
+                    </div>
+                    <div class="am-u-md-2">
+                        <a href="led-buld-color.html" target="" class="">
+                            <img src="img/wonder.png">
+                        </a>
+                    </div>
+                    <div class="am-u-md-2">
+                        <a href="led-lamp.html" target="" class="">
+                            <img src="img/mango.png">
+                        </a>
+                    </div>
+                    <div class="am-u-md-2">
+                        <a href="lightstrip.html" target="" class="">
+                            <img src="img/pitaya.png">
+                        </a>
+                    </div>
+                    <div class="am-u-md-2">
+                        <a href="luna.html" target="" class="">
+                            <img src="img/luna.png">
+                        </a>
+                    </div>
+                    <div class="am-u-md-2"></div>
+                </div>
+            </div>
+            <div class="yee-dropdown-center"></div>
+            <div class="yee-dropdown-bottom">
+                <div class="am-g am-g-collapse">
+                    <div class="am-u-md-2 am-u-sm-5"> <a href="bedside-lamp.html" target="" class="">Bedside Lamp</a> </div>
+                    <div class="am-u-md-2 am-u-sm-5"> <a href="led-buld-white.html" target="" class="">LED Bulb (White)</a> </div>
+                    <div class="am-u-md-2 am-u-sm-5"> <a href="led-buld-color.html" target="" class="">LED Bulb (Color)</a> </div>
+                    <div class="am-u-md-2 am-u-sm-5"> <a href="led-lamp.html" target="" class="">LED Desk Lamp</a> </div>
+                    <div class="am-u-md-2 am-u-sm-5"> <a href="lightstrip.html" target="" class="">Lightstrip (Color)</a> </div>
+                    <div class="am-u-md-2 am-u-sm-5"> <a href="luna.html" target="" class="">LED Ceiling Light)</a> </div>
+                    <div class="am-u-md-2 am-u-sm-5"> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<nav data-am-widget="menu" class="am-menu am-menu-offcanvas1 am-no-layout" data-am-menu-offcanvas="">
+    <div class="am-offcanvas" id="doc-topbar-offcanvas">
+        <div class="am-offcanvas-bar am-offcanvas-bar-overlay">
+            <ul id="main-menu" class="am-menu-nav am-avg-sm-1">
+                <li class="am-parent " id="menu-item-42"><a href="#" target="">ТОВАРИ</a>
+                    <ul class="am-menu-sub am-collapse am-avg-sm-2">
+                        <li class="" id="menu-item-43"><a href="bedside-lamp.html" target="">Bedside Lamp</a></li>
+                        <li class="" id="menu-item-44"><a href="led-buld-white.html" target="">LED Bulb (White)</a></li>
+                        <li class="" id="menu-item-45"><a href="led-buld-color.html" target="">LED Bulb (Color)</a></li>
+                        <li class="" id="menu-item-46"><a href="led-lamp.html" target="">LED Desk Lamp</a></li>
+                        <li class="" id="menu-item-47"><a href="lightstrip.html" target="">Lightstrip (Color)</a></li>
+                        <li class="" id="menu-item-83"><a href="luna.html" target="">LED Ceiling Light</a></li>
+                    </ul>
+                </li>
+                <li class="" id="menu-item-48"><a href="tech-life.html" target="">ЖИТТЯ В РИТМІ ТЕХНОЛОГІЙ</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+    <section class="yee-page-wrapper">
+        <div class="yee-page-box am-g">
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/01.png" alt="">
+                    <img class="yee-page-img__img_small" src="img/led-buld-color/01-m.jpg" alt="">
+                    <div class="yee-wonder-1">
+                        <div class="yee-wonder-1-name">YEELIGHT LED Bulb (Кольорова)</div>
+                        <!--<div class="yee-wonder-1-pic"></div>-->
+                        <div class="yee-wonder-1-title"></div>
+                        <div class="yee-wonder-1-intro">Мільйон кольорів, Колірна температура, Підтримка Wi-Fi, Довгий строк роботи </div>
+                        <div class="yee-temp-buy-button am-center"><a href="http://mi.ua/yeelight/lampa-yeelight-led-colorful-smart-bulb/" target="_blank">Купити&gt;</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/02.png" alt="">
+                    <div class="yee-wonder-2">
+                        <div class="yee-wonder-2-title">Спеціальний світло для вас</div>
+                        <div class="yee-wonder-2-body">Як відомо, колір світла може по-різному впливати на органи чуття людини, стимулюючи нервові клітини. Таким чином, певний колір має своє психологічне значення та може викликати певні емоції.
+Дослідження показали, що, наприклад, червоний є захоплюючим і енергійним кольором, помаранчевий стимулює апетит, чорний заспокоює, а «тихі» сині тони мають релаксуючий вплив.
+Особливий колір також може підвищити якість життя людини. Так само, певна температура та яскравість лампочки можуть вплинути на роботу мозку, і допомогти Вам не тільки зосередитись під час роботи, а й заспокоїтись, зняти втому чи поліпшити сон. </div>
+                    </div>
+                    <div class="yee-wonder-2-special">
+                        <div class="am-g">
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/02-04.png" alt="">
+                                    <h3 class="am-thumbnail-caption">Релакс</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/02-01.png" alt="">
+                                    <h3 class="am-thumbnail-caption">Відновлення</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/02-05.png" alt="">
+                                    <h3 class="am-thumbnail-caption">Атмосфера</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/02-02.png" alt="">
+                                    <h3 class="am-thumbnail-caption">Прокидайтесь!</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/02-03.png" alt="">
+                                    <h3 class="am-thumbnail-caption">Фокус</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/02-06.png" alt="">
+                                    <h3 class="am-thumbnail-caption">Безпека</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="fullpage11">
+                <div class="am-u-sm-12">
+                    <div class="yee-page-img am-thumbnail">
+                        <img class="yee-page-img__img_big" src="img/led-buld-color/03.png" alt="">
+
+                        <div class="yee-wonder-3">
+                            <div class="yee-wonder-3-title font-size-23">Не просто якісне освітлення, а приємне якісне освітлення</div>
+                            <div class="yee-wonder-3-body font-size-11">Гаджет володіє цікавим алгоритмом SLiX ™, який відповідає за змішування кольорів і може «видати» до мільйона різноманітних барвистих фарб і відтінків. За допомогою цієї технології та спеціального мобільного додатку, Ви зможете зробити індивідуальне налаштування для будь-якої життєвої ситуації! Наприклад, м’яке чарівне освітлення для романтичної вечері, якісне освітлення для читання, спеціальне освітлення під свій улюблений фільм та багато інших варіантів.</div>
+                        </div>
+                        <div class="yee-wonder-3-float-div">
+                            <div class="yee-wonder-3-float-div-title font-size-17">Функція «підбирання» кольору</div>
+                            <div class="yee-wonder-3-float-div-body font-size-10">Ця технологія може «підібрати» основні кольори з Вашої улюбленої фотографії та відобразити їх кольорову гаму. Це нагадає ті місця, в яких Вам довелось побувати. </div>
+                        </div>
+                        <img class="yee-page-img__img_small"
+                             src="img/led-buld-color/03-m.png" alt=""
+                             srcset="img/led-buld-color/03-m-s.jpg 380w"
+                        >
+                        <div class="yee-wonder-bottom"></div>
+                    </div>
+                </div>
+                <div class="am-u-sm-12">
+                    <div class="yee-page-img am-thumbnail">
+                        <img class="yee-page-img__img_big" src="img/led-buld-color/04.png" alt="">
+                        <img class="yee-page-img__img_small" src="img/led-buld-color/04-m.jpg" alt="">
+                        <div class="yee-wonder-3">
+                            <div class="yee-wonder-3-title">Не просто якісне освітлення, а приємне якісне освітлення</div>
+                            <div class="yee-wonder-3-body">Гаджет володіє цікавим алгоритмом SLiX ™, який відповідає за змішування кольорів і може «видати» до мільйона різноманітних барвистих фарб і відтінків. За допомогою цієї технології та спеціального мобільного додатку, Ви зможете зробити індивідуальне налаштування для будь-якої життєвої ситуації! Наприклад, м’яке чарівне освітлення для романтичної вечері, якісне освітлення для читання, спеціальне освітлення під свій улюблений фільм та багато інших варіантів.</div>
+                        </div>
+                        <div class="yee-wonder-4-float-div">
+                            <div class="yee-wonder-3-float-div-title font-size-18">Світло навколо</div>
+                            <div class="yee-wonder-3-float-div-body font-size-9">Гаджет може скласти чудовий тандем із домашнім кінотеатром. Якісне кольорове освітлення YEELIGHT LED Bulb зробить більш атмосферним перегляд Вашого улюбленого кінофільму.</div>
+                        </div>
+                        <div class="yee-wonder-bottom"></div>
+                    </div>
+                </div>
+                <div class="am-u-sm-12">
+                    <div class="yee-page-img am-thumbnail">
+                        <img class="yee-page-img__img_big" src="img/led-buld-color/05.png" alt="">
+                        <img class="yee-page-img__img_small"
+                             src="img/led-buld-color/05-m.png" alt=""
+                             srcset="img/led-buld-color/05-m-s.jpg 380w"
+                        >
+                        <div class="yee-wonder-3">
+                            <div class="yee-wonder-3-title font-size-20">Не просто якісне освітлення, а приємне якісне освітлення</div>
+                            <div class="yee-wonder-3-body font-size-14">Гаджет володіє цікавим алгоритмом SLiX ™, який відповідає за змішування кольорів і може «видати» до мільйона різноманітних барвистих фарб і відтінків. За допомогою цієї технології та спеціального мобільного додатку, Ви зможете зробити індивідуальне налаштування для будь-якої життєвої ситуації! Наприклад, м’яке чарівне освітлення для романтичної вечері, якісне освітлення для читання, спеціальне освітлення під свій улюблений фільм та багато інших варіантів.  </div>
+                        </div>
+                    </div>
+                    <div class="yee-wonder-5-float-div">
+                        <div class="yee-wonder-3-float-div-title">Колір, що струменить</div>
+                        <div class="yee-wonder-3-float-div-body font-size-10">Освітлення в автоматичному режимі перебирає декілька кольорів, у темпі, який Ви задаєте гаджету. Це зробить атмосферу в кімнаті більш цікавою та романтичною. </div>
+                    </div>
+                    <div class="yee-wonder-bottom"></div>
+                </div>
+            </div>
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/06.png" alt="">
+                    <div class="yee-wonder-6">
+                        <div class="yee-wonder-6-title">Використовуйте відповідну колірну температуру</div>
+                        <div class="yee-wonder-6-body">Лампа створена за професійним оптичним дизайном з високою якістю LED-елементів. Це дозволяє гаджету видавати стабільне та якісне світло без мерехтіння, що є дуже добрим для захисту зору людини.
+У той же час, колірна температура може регулюватись від 1700K до 6500K. Плюс — яскравість можна регулювати за бажанням, відповідно до Ваших потреб. Тепер світло навколо Вас може змінюватись відповідно до Ваших потреб (як відомо, колірна температура від 5300K може змусити людину зосередитись та залишатися зосередженою).</div>
+                    </div>
+                    <div class="yee-wonder-6-light-type">
+                        <div class="am-g">
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/06-01.png" alt="">
+                                    <h3 class="am-thumbnail-caption">1700K<br>Сірник</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/06-02.png" alt="">
+                                    <h3 class="am-thumbnail-caption">1850k<br>Свічка</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/06-03.png" alt="">
+                                    <h3 class="am-thumbnail-caption">2800K<br>Електрична лампа розжарювання</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/06-04.png" alt="">
+                                    <h3 class="am-thumbnail-caption">3400K<br>Магнієва лампа</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/06-05.png" alt="">
+                                    <h3 class="am-thumbnail-caption">5500K<br>Сонячне світло</h3>
+                                </div>
+                            </div>
+                            <div class="am-u-sm-2">
+                                <div class="am-thumbnail"><img src="img/led-buld-color/06-06.png" alt="">
+                                    <h3 class="am-thumbnail-caption">6500K<br>Флуоресцентна лампа</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="yee-wonder-6-light-limit">
+                        <img class="yee-page-img__img_big" src="img/led-buld-color/06-line.png" alt="">
+                        <img class="yee-page-img__img_small" src="img/led-buld-color/06-m.jpg" alt="">
+                    </div>
+                    <div class="yee-wonder-bottom-black"></div>
+                </div>
+            </div>
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/07.png" alt="">
+                    <img class="yee-page-img__img_small" src="img/led-buld-color/07-m.png" alt="">
+                    <div class="yee-wonder-7">
+                        <div class="yee-wonder-7-title">Розслабте своє тіло та розум</div>
+                        <div class="yee-wonder-7-body">Якщо ви хочете створити товариську невимушену атмосферу для того, щоб провести час з друзями, оберіть теплі відтінки YEELIGHT LED Bulb. Тоді ваша розмова, безумовно, буде доброзичливою, приємною та веселою! </div>
+                    </div>
+                    <div class="yee-wonder-bottom-black"></div>
+                </div>
+            </div>
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/08.png" alt="">
+                    <div class="yee-wonder-8">
+                        <div class="yee-wonder-8-title">Контролюйте освітлення у будь-який час та у будь-якому місці</div>
+                        <div class="yee-wonder-8-body font-size-14">Ви можете підключити лампочку Xiaomi YEELIGHT LED Bulb до домашньої Wi-Fi мережі та внести в додаток Mi Smart Home. Це дозволить Вам контролювати роботу лампочки віддалено, за допомогою смартфона або планшета. Ви зможете відрегулювати світло в кімнаті сплячої дитини чи перемкнути режим освітлення власної кімнати, не встаючи зі зручного дивану!
+Крім того, якщо побажаєте, Ви зможете створити собі атмосферу повного релаксу, повернувшись з роботи та зробивши відповідні налаштування освітлення YEELIGHT LED Bulb.</div>
+                    </div>
+                    <img class="yee-page-img__img_small" src="img/led-buld-color/08-m.jpg" alt="">
+                    <div class="yee-wonder-8-step">
+                        <div class="am-g">
+                            <div class="am-u-sm-12"><img src="img/led-buld-color/08-icon1.png" alt="">
+                                <h3 class="am-thumbnail-caption">Контроль за межами помешкання</h3>
+                            </div>
+                            <div class="am-u-sm-12"><img src="img/led-buld-color/08-icon2.png" alt="">
+                                <h3 class="am-thumbnail-caption">Контроль у будь-який час</h3>
+                            </div>
+                            <div class="am-u-sm-12"><img src="img/led-buld-color/08-icon3.png" alt="">
+                                <h3 class="am-thumbnail-caption">Контроль за допомогою спеціального мобільного додатку</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/09.png" alt="">
+                    <img class="yee-page-img__img_small" src="img/led-buld-color/09-m.jpg" alt="">
+                    <div class="yee-wonder-9">
+                        <div class="yee-wonder-9-title">Функція мультікерування декількома лампочками</div>
+                        <div class="yee-wonder-9-body">Хочете зробити невеличкий сюрприз? Хочете створити романтичну атмосферу? Функція мультікерування декількома YEELIGHT LED Bulb допоможе Вам у цьому! </div>
+                    </div>
+                </div>
+            </div>
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail yee-wonder-10-page">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/10.png" alt="">
+                    <div class="yee-wonder-10">
+                        <div class="yee-wonder-10-title">Стабільна та міцна лампочка</div>
+                        <div class="yee-wonder-10-body">Для того, щоб додати в Ваше життя новий спектр яскравих кольорів, ми створили цю чудову світлодіодну лампочку YEELIGHT LED Bulb, яка буде радувати Вас кожен день. З яскравістю в 600 люменів і потужністю в 9 Вт, гаджет має наднизьке енергоспоживання, що є на 30% меншим, ніж в класичних лампах розжарювання. Пристрій буде вірно служити Вам до 11 років! (При споживанні до 6 годин на добу). </div>
+                    </div>
+                    <img class="yee-page-img__img_small" src="img/led-buld-color/10-m.jpg" alt="">
+                    <div class="yee-wonder-10-items yee-wonder-10-items-1">
+                        <div class="yee-wonder-10-red-radius" style="opacity: 1;"></div>
+                        <div class="yee-wonder-10-items-text">Висока прозорість, висока швидкість розсіювання</div>
+                    </div>
+                    <div class="yee-wonder-10-items yee-wonder-10-items-2">
+                        <div class="yee-wonder-10-red-radius" style="opacity: 1;"></div>
+                        <div class="yee-wonder-10-items-text font-size-12">Модуль Wi-Fi для підключення до домашньої мережі</div>
+                    </div>
+                    <div class="yee-wonder-10-items yee-wonder-10-items-3">
+                        <div class="yee-wonder-10-red-radius" style="opacity: 1;"></div>
+                        <div class="yee-wonder-10-items-text">19 LED-світлодіодів: 9 білих та 10 кольорових</div>
+                    </div>
+                    <div class="yee-wonder-10-items yee-wonder-10-items-4">
+                        <div class="yee-wonder-10-red-radius" style="opacity: 1;"></div>
+                        <div class="yee-wonder-10-items-text">Пластик з алюмінієвим покриттям</div>
+                    </div>
+                    <div class="yee-wonder-10-items yee-wonder-10-items-5">
+                        <div class="yee-wonder-10-red-radius" style="opacity: 1;"></div>
+                        <div class="yee-wonder-10-items-text">Традиційний дизайн з «ребристими» лініями </div>
+                    </div>
+                    <div class="yee-wonder-bottom-black">Працюе більш 25000 годин, майже 11 років 6 годин на день</div>
+                </div>
+            </div>
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/11.png" alt="">
+                    <img class="yee-page-img__img_small" src="img/led-buld-color/11-m.jpg" alt="">
+                    <div class="yee-wonder-11-left">
+                        <div class="yee-wonder-11-title">Біла</div>
+                        <div class="yee-wonder-11-body">
+                            4000К ССТ (Колірна температура)<br>
+                            Варіатор<br>
+                            Підтримка Wi-Fi<br>
+                            Енергозбереження
+                        </div>
+                    </div>
+                    <div class="yee-wonder-11-right">
+                        <div class="yee-wonder-11-title">Кольорова</div>
+                        <div class="yee-wonder-11-body">
+                            16 мільйонів кольорів<br>
+                            1700К-6500К ССТ<br>
+                            Підтримка Wi-Fi<br>
+                            Тривалий строк праці
+                        </div>
+                    </div>
+                    <div class="yee-wonder-11-compare">
+                        <div class="yee-wonder-11-compare-top">
+                            <div class="yee-wonder-11-compare-top-left">Біла<br>Кольорова</div>
+                            <div class="yee-wonder-11-compare-top-right"><img src="img/led-buld-color/11-01.png"></div>
+                        </div>
+                        <div class="yee-wonder-11-compare-bottom">
+                            <div class="yee-wonder-11-compare-bottom-left"></div>
+                            <div class="yee-wonder-11-compare-bottom-right">
+                                <div class="am-g">
+                                    <div class="am-u-sm-1 font-size-10" style="width: 50px">Інтенсивність</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 50px">Колір</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 95px">Колірна температура</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 50px">Функція будильник</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 50px">Функція «кольору, що струменить»</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 55px">Функція «підбирання» кольору</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 45px">Обране</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 65px">Функція «планування»</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 60px">Таймер зі зворотнім відліком</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 65px">Взаємодія з іншими</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 70px">Групування</div>
+                                    <div class="am-u-sm-1 font-size-10" style="width: 70px">Функція «шерінгу»</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="am-u-sm-12">
+                <div class="yee-page-img am-thumbnail">
+                    <img class="yee-page-img__img_big" src="img/led-buld-color/12.png" alt="">
+
+                    <div class="yee-wonder-12">
+                        <div class="yee-wonder-12-title">Два кроки для легкого підключення</div>
+                        <div class="yee-wonder-12-body">Встановіть YEELIGHT LED Bulb у світильник, знайдіть в додатку Mi Smart Home Ваш гаджет і додайте його у вже існуючий список пристроїв. Насолоджуйтесь якісним і розумним освітлюванням!</div>
+                    </div>
+                    <div class="yee-wonder-12-step1">Встановіть</div>
+                    <div class="yee-wonder-12-step2">Знайдіть у мобільному додатку Mi Smart Home</div>
+                    <div class="yee-wonder-12-mobile">
+                        <div class="yee-wonder-12-mobile-step1">
+                            <img src="img/led-buld-color/yee-wonder-12-step1-m.jpg" alt="">
+                            <div>Встановіть</div>
+                        </div>
+                        <div class="yee-wonder-12-mobile-step2">
+                            <img src="img/led-buld-color/yee-wonder-12-step2-m.jpg" alt="">
+                            <div>Знайдіть у мобільному додатку Mi Smart Home</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="am-u-sm-12 yee-wonder-last-div">
+                <div class="yee-page-img am-thumbnail"><img src="img/led-buld-color/13.png" alt="">
+                    <div class="yee-wonder-13">
+                        <div class="yee-wonder-13-content"></div>
+                    </div>
+                    <div class="yee-wonder-bottom-black"></div>
+                </div>
+            </div>
+            <div class="am-u-sm-12 yee-bottom-spec">
+                <div class="yee-bottom-spec-appearance">
+                    <table class="am-table .am-text-middle">
+                        <thead>
+                            <tr class="firstRow">
+                                <th colspan="2">Зовнішній вигляд</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="left-td">Модель</td>
+                                <td class="right-td">YLDP03YL</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Габаритні розміри</td>
+                                <td class="right-td">55x120 мм</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="yee-bottom-spec-specification">
+                    <table class="am-table .am-text-middle">
+                        <thead>
+                            <tr class="firstRow">
+                                <th colspan="2">Специфікація</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="left-td">Світловий потік</td>
+                                <td class="right-td">580 lm</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Режим зв'язку</td>
+                                <td class="right-td">Wi-Fi IEEE 802.11 b/g/n 2,4 GHz</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Колірна температура </td>
+                                <td class="right-td">2700К</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Показник індексу передачі кольору (CRI)</td>
+                                <td class="right-td">83</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Потужність</td>
+                                <td class="right-td">8W</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Робоча напруга</td>
+                                <td class="right-td">120V ~ 60Hz  0.2A</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Інтерфейс лампи</td>
+                                <td class="right-td">E26</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Тривалість роботи</td>
+                                <td class="right-td">До 25 000 годин (при середньому використанні 6 годин на добу)</td>
+                            </tr>
+                            <tr>
+                                <td class="left-td">Платформи, які підтримуються</td>
+                                <td class="right-td">(a) Android 4.4 та вище;<br>(b) IOS 7.0 та вище.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer ================================================== -->
+    <section class="yee-info  yee-page-max-width">
+          <div class="yee-info-body-1 yee-info-body am-g">
+              <div class="am-u-sm-12 am-u-md-6 am-u-lg-6">
+                  <div class="am-u-sm-6 am-u-md-6 am-u-lg-6">
+                      <div class="yee-bottom-menu">КОМПАНІЯ</div>
+                      <div><a href="http://mi.ua/company/about/">Про компанію Xiaomi Tech</a></div>
+                      <div><a href="http://mi.ua/company/investors/">Партнерам</a></div>
+                      <div><a href="http://mi.ua/company/contacts/">Контакти</a></div>
+                      <div><a href="http://miui.ua/">MIUI</a></div>
+                      <div><a href="http://mi.ua/company/unlock-your-mi-device/">Unlock Your Mi Device</a></div>
+                  </div>
+                  <div class="am-u-sm-6 am-u-md-6 am-u-lg-6">
+                      <div class="yee-bottom-menu">З НАМИ ВИГІДНО</div>
+                      <div><a href="http://mi.ua/profitably/delivery/">Доставка та оплата</a></div>
+                      <div><a href="http://mi.ua/profitably/credit/">Придбати в розстрочку</a></div>
+                      <div><a href="http://mi.ua/profitably/mi-protect/">Mi Protect</a></div>
+                      <div><a href="http://mi.ua/profitably/mi-trade-in/">Mi Trade-in</a></div>
+                      <div><a href="http://mi.ua/profitably/podarunkovi-sertifikati/">Подарункові сертифікати</a></div>
+                      <div><a href="http://mi.ua/profitably/promo/">Актуальні акції</a></div>
+                  </div>
+              </div>
+              <div class="am-u-sm-12 am-u-md-6 am-u-lg-6 yee-bottom-footer-right-nav">
+                  <div class="am-u-sm-6 am-u-md-6 am-u-lg-6">
+                      <div class="yee-bottom-menu">З НАМИ ЗРУЧНО</div>
+                      <div><a href="http://mi.ua/easy/change-and-returns/">Обмін та повернення без проблем</a></div>
+                      <div><a href="http://mi.ua/easy/warranty/">Гарантія</a></div>
+                      <div><a href="http://mi.ua/easy/service/">Сервіс</a></div>
+                      <div><a href="http://mi.ua/easy/check-serial-number/">Перевірка Серійного Номеру</a></div>
+                      <div><a href="http://mi.ua/easy/android-mi-store-ukraine-/">Додаток Android “Mi Store Ukraine” </a></div>
+                  </div>
+                  <div class="am-u-sm-6 am-u-md-6 am-u-lg-6">
+                      <div class="yee-bottom-menu">НАШІ ПРОЕКТИ</div>
+                      <div><a href="http://mi.ua/nashi-proekti/blagodiyni-proekti/">Благодійні проекти</a></div>
+                      <div><a href="http://mi.ua/nashi-proekti/pridbati-zi-skladu-v-kitai/">Придбати зі складу в Китаї</a></div>
+                      <div><a href="http://mi.ua/nashi-proekti/partneri/">Наші партнери</a></div>
+                  </div>
+              </div>
+              <div class="yee-bottom-footer">
+                  <div class="yee-bottom-footer-left">veoles
+                  </div>
+                  <div class="yee-bottom-footer-right">
+
+                      <a href="https://www.facebook.com/Xiaomi.Ukraine" target="_blank">
+                        <div class="social-icon">
+                          <img src="img/icon/facebook-icon1.png">
+                        </div>
+                      </a>
+
+                      <a href="https://twitter.com/MiUkraine" target="_blank">
+                        <div class="social-icon">
+                          <img src="img/icon/twitter-icon1.png">
+                        </div>
+                      </a>
+
+                      <a href="http://www.youtube.com/channel/UC9xcqAWdcRnRXm2Y-9yqq2g?sub_confirmation=1" target="_blank">
+                        <div class="social-icon">
+                          <img src="img/icon/youtube-icon1.png">
+                        </div>
+                      </a>
+
+                      <a href="https://plus.google.com/110678164643880719859/about" target="_blank">
+                        <div class="social-icon">
+                          <img src="img/icon/google-icon1.png">
+                        </div>
+                      </a>
+
+                      <a href="https://vk.com/mi_ukraine" target="_blank">
+                        <div class="social-icon">
+                          <img src="img/icon/vkontakte_i1.png">
+                        </div>
+                      </a>
+
+                      <a href="https://vimeo.com/xiaomiglobal" target="_blank">
+                        <div class="social-icon">
+                          <img src="img/icon/vimeo-icon1.png">
+                        </div>
+                      </a>
+                  </div>
+              </div>
+          </div>
+          <div class="amz-toolbar" id="amz-toolbar" style="display: block;">
+              <a href="#top" title="" class="yee-go-top" id="amz-go-top"></a>
+          </div>
+      </section>
+    <script src="js/hm.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/amazeui.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/layer.js"></script>
+    <script>
+        $('.yee-wonder-10-red-radius').mouseover(function() {
+            var item = $(this).parents('.yee-wonder-10-items');
+            var siblings = item.siblings('.yee-wonder-10-items');
+            item.css('background', 'url(img/led-buld-color/10-02.png) no-repeat center center');
+            item.find('.yee-wonder-10-items-text').fadeIn(500);
+            siblings.find('.yee-wonder-10-items-text').fadeOut();
+            siblings.css('background', 'none');
+        });
+        setInterval(function() {
+            if ($('.yee-wonder-10-red-radius').css('opacity') > 0.8) {
+                $('.yee-wonder-10-red-radius').css('opacity', '0.5');
+            } else {
+                $('.yee-wonder-10-red-radius').css('opacity', '1');
+            }
+        }, 500);
+    </script>
+</body>
+
+</html>

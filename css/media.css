@@ -1,0 +1,1074 @@
+.lightstrip-param {
+	display: inline-block;
+	vertical-align: top;
+	max-width: 200px;
+	width: 160px;
+	margin: 0 30px 10px;
+}
+
+.yee-wonder-3 .yee-wonder-3-body {
+	font-size: 16px !important;
+}
+
+.yee-cherry-5-special-item {
+	position: relative;
+}
+
+.yee-cherry-5-special-item__text {
+	position: absolute;
+
+	color: #fff;
+	color: rgba(255, 255, 255, .8);
+
+	text-align: left;
+
+	padding: 0 36px;
+}
+
+.yee-cherry-5-special-item__text_bottom {
+	bottom: 50px;
+}
+
+.yee-cherry-5-special-item__text_top {
+	top: 50px;
+}
+
+.yee-cherry-5-special-item .multi-title {
+	font-size: 28px;
+}
+
+.yee-page-img-lists img:hover {
+	background-size: 100% 100%;
+}
+
+.yee-page-img img {
+	max-width: 100%;
+}
+
+.yee-cherry-5-special,
+.am-thumbnail > .yee-page-img__img_small,
+.yee-mijia-5-mobile,
+.yee-wonder-12-mobile,
+.yee-cherry-5-special-mobile,
+.yee-page-img__img_small {
+	display: none;
+}
+
+@media (max-width: 1030px) {
+	.yee-mijia-2 {
+		left: 59%;
+		top: 6%;
+	}
+
+	.yee-mijia-2-special {
+		top: 45% !important;
+	}
+}
+
+@media (max-width: 960px) {
+	.lightstrip-param {
+		margin: 0 20px 10px;
+	}
+}
+
+.yee-mijia-5-mobile-1 {
+	background: #341f11;
+}
+
+.yee-mijia-5-mobile-2 {
+	background: #735e5b;
+}
+
+.yee-mijia-5-mobile-3 {
+	background: #923c00;
+}
+
+.yee-mijia-5-mobile-4 {
+	background: #b56e24;
+}
+
+.yee-mijia-5-mobile .yee-mijia-5 {
+	position: static;
+	width: 100%;
+	padding: 0 36px 60px;
+	text-align: left;
+}
+
+.yee-mijia-5-special {
+	padding: 20px;
+	text-align: left;
+
+	color: rgba(255, 255, 255, .8);
+}
+
+.yee-mijia-5-special img{
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 80px;
+}
+
+.yee-mijia-5-special-wrap__title {
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+.yee-mijia-5-special-wrap__text {
+	font-size: 14px;
+}
+
+.yee-mijia-5-special-wrap {
+	display: inline-block;
+	vertical-align: middle;
+	width: calc(100% - 90px);
+}
+
+.yee-mijia-5-mobile-1 .yee-mijia-5-special {
+	background: #2a190e;
+}
+
+.yee-mijia-5-mobile-2 .yee-mijia-5-special {
+	background: #5c4b49;
+}
+
+.yee-mijia-5-mobile-3 .yee-mijia-5-special {
+	background: #763100;
+}
+
+.yee-mijia-5-mobile-4 .yee-mijia-5-special {
+	background: #935a1e;
+}
+
+.yee-mijia-5-special {
+	margin: 0 32px 60px;
+	border-radius: 20px;
+}
+
+/* Tablet media */
+@media (max-width: 800px) {
+	.yee-cherry-9-colors  {
+		display: none;
+	}
+
+	.yee-mijia-7 {
+		background: #242525;
+	}
+
+	.yee-mijia-7 .yee-mijia-7-title {
+		padding-top: 30px;
+	}
+
+	.yee-dolphin-2 {
+		background: #b8dce2;
+
+		margin-bottom: -1px;
+	}
+
+	.yee-cherry-7-actions {
+		position: static;
+		width: 100%;
+	}
+
+	.yee-wonder-10,
+	.yee-page-box .yee-wonder-10-page {
+		background: #d7d7d7;
+	}
+
+	.yee-wonder-10-items-1 {
+		left: 10%;
+		top: 46%;
+	}
+
+	.yee-wonder-10-items-2 {
+		left: 48%;
+		top: 60%;
+	}
+
+	.yee-wonder-10-items-3 {
+		left: 5%;
+		top: 63.5%;
+	}
+
+	.yee-wonder-10-items-4 {
+		left: 59%;
+		top: 70%;
+	}
+
+	.yee-wonder-10-items-4 {
+		left: 55%;
+		top: 79%;
+	}
+
+	.am-thumbnail .yee-page-img__img_big,
+	.yee-page-img__img_big {
+		display: none;
+	}
+
+	.am-thumbnail > .yee-page-img__img_small,
+	.yee-wonder-12-mobile,
+	.yee-cherry-5-special-mobile,
+	.yee-page-img__img_small {
+		display: block;
+	}
+
+	.yee-mijia-9-animate {
+		display: none;
+	}
+
+	.yee-wonder-2-special {
+		margin-top: -1px;
+	}
+
+	.yee-wonder-2-special,
+	.yee-wonder-2 {
+		position: static;
+		width: 100%;
+		padding: 30px 36px;
+
+		background: #00affb;
+	}
+
+	.yee-wonder-2-special .am-u-sm-2 {
+		width: 33%;
+		margin-bottom: 20px;
+	}
+
+	.yee-wonder-2-special [class*=am-u-]+[class*=am-u-]:last-child {
+		float: left;
+	}
+
+	.yee-dolphin-2,
+	.yee-dolphin-7,
+	.yee-wonder-2,
+	.yee-wonder-3,
+	.yee-dolphin-9,
+	.yee-wonder-10,
+	.yee-wonder-4 {
+		text-align: left;
+	}
+
+	.yee-dolphin-7-step {
+		top: auto;
+		left: auto;
+		right: 10px;
+		bottom: 32%;
+		width: 40%;
+	}
+
+	.yee-dolphin-7-step .am-u-sm-4 {
+		width: 100%;
+	}
+
+	.yee-dolphin-7-step .am-u-sm-4,
+	.yee-dolphin-7-step [class*=am-u-]+[class*=am-u-]:last-child{
+		float: none;
+	}
+
+	.yee-wonder-3-float-div,
+	.yee-wonder-4-float-div,
+	.yee-wonder-5-float-div,
+	.yee-wonder-bottom {
+		display: none;
+	}
+
+	/* led-lamp page */
+	.yee-mijia-1,
+	.yee-mijia-3,
+	.yee-mijia-4,
+	.yee-mijia-9,
+	.yee-mijia-6,
+	.yee-mijia-11,
+	.yee-wonder-3,
+	.yee-wonder-7,
+	.yee-wonder-9,
+	.yee-wonder-4 {
+		top: 7%;
+		left: 0;
+		width: 100%;
+		padding: 0 36px;
+	}
+
+	.yee-mijia-6 {
+		top: 15%;
+		background: #e3e4e4;
+		padding-bottom: 30px;
+	}
+
+	.yee-mijia-6,
+	.yee-wonder-6,
+	.yee-wonder-8,
+	.yee-wonder-9,
+	.yee-wonder-12,
+	.yee-wonder-7 {
+		text-align: left;
+	}
+
+	.yee-mijia-6,
+	.yee-mijia-6-accuracy,
+	.yee-mijia-6-accuracy-step,
+	.yee-wonder-8,
+	.yee-wonder-12,
+	.yee-dolphin-9,
+	.yee-wonder-12-mobile,
+	.yee-wonder-8-step,
+	.yee-dolphin-7,
+	.yee-wonder-10,
+	.yee-cherry-3-special,
+	.yee-dolphin-8,
+	.yee-mijia-7,
+	.yee-dolphin-2 {
+		position: static;
+		width: 100%;
+		padding: 0 36px;
+	}
+
+	.yee-cherry-3-special .yee-cherry-3-special-name,
+	.yee-cherry-3-special .am-thumbnail-caption {
+		color:#595959;
+	}
+
+	.yee-cherry-3-special-line {
+		display: none;
+	}
+
+	.yee-cherry-3-special .yee-page-img__img_small {
+		max-width: 70px;
+	}
+
+	.yee-cherry-3-special .am-u-sm-2 {
+		width: 33%;
+	}
+
+	.yee-dolphin-7 {
+		background: #e2cbb1;
+	}
+
+	.yee-dolphin-8 {
+		background: #6d360b;
+
+		text-align: left;
+	}
+
+	.yee-wonder-12,
+	.yee-wonder-12-mobile,
+	.yee-dolphin-9 {
+		background: #4b4f50;
+	}
+
+	.yee-wonder-12-mobile {
+		color: rgba(255, 255, 255, .8);
+		padding-bottom: 30px;
+
+		margin-top: -1px;
+	}
+
+	.yee-wonder-12-step1,
+	.yee-wonder-12-step2,
+	.yee-dolphin-9-step1,
+	.yee-dolphin-9-step2 {
+		display: none;
+	}
+
+	.yee-wonder-8 {
+		background: #d8d8d8;
+	}
+
+	.yee-wonder-8-step {
+		overflow: hidden;
+		background: #d1d1d1;
+
+		padding-bottom: 30px;
+	}
+
+	.yee-wonder-8-step img {
+		float: none;
+		text-align: center;
+	}
+
+	.yee-wonder-8-step h3 {
+		padding-top: 25px;
+	}
+
+	.yee-wonder-8-step .am-u-sm-12 {
+		width: 33%;
+		float: left;
+	}
+
+	.yee-mijia-6,
+	.yee-mijia-6-accuracy,
+	.yee-mijia-6-accuracy-step {
+		background: #e3e4e4;
+	}
+
+	.yee-mijia-6-accuracy-center {
+		display: none;
+	}
+
+	.yee-mijia-6-accuracy {
+		overflow: hidden;
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+
+	.yee-mijia-6-accuracy-step .am-u-sm-3 {
+		width: 50%;
+		padding: 0;
+		margin-bottom: 20px;
+	}
+
+	.yee-mijia-4-bottom {
+		left: 36px;
+		top: 20%;
+		bottom: auto;
+
+		text-align: left;
+	}
+
+	.yee-wonder-6,
+	.yee-wonder-6-light-type,
+	.yee-wonder-6-light-limit {
+		position: static;
+		width: 100%;
+		padding: 0 36px;
+	}
+
+	.yee-wonder-6,
+	.yee-wonder-6-light-limit {
+		margin-bottom: 30px;
+	}
+
+	.yee-wonder-6-light-type .am-u-sm-2 {
+		width: 33%;
+		margin-bottom: 20px;
+	}
+
+	.yee-mijia-4-bottom .am-u-sm-4 {
+		width: 100%;
+	}
+
+	.yee-mijia-4-bottom [class*=am-u-],
+	.yee-mijia-4-bottom [class*=am-u-]+[class*=am-u-]:last-child{
+		float: none;
+	}
+
+	.yee-mijia-11 {
+		top: 45%;
+	}
+
+	.yee-mijia-11-title {
+		text-align: center;
+	}
+
+	.yee-page-img-lists {
+		display: none;
+	}
+
+	.yee-mijia-2-special {
+		width: 100% !important;
+		top: 70% !important;
+	}
+
+	.yee-mijia-2-special [class*=am-u-],
+	.yee-mijia-2-special [class*=am-u-]+[class*=am-u-]:last-child {
+		float: none;
+	}
+
+	.yee-mijia-2,
+	.yee-mijia-8 {
+		position: static;
+		width: 100%;
+		padding: 60px 36px;
+	}
+
+	.yee-mijia-7 {
+		width: 100%;
+		top: 60px;
+		left: 0;
+		padding: 0 36px;
+	}
+
+	.yee-mijia-5-desktop {
+		display: none;
+	}
+
+	.yee-mijia-5-mobile {
+		display: block;
+	}
+
+	/* lightstrip page */
+	.yee-pitaya-1 {
+		top: 15%;
+	}
+
+	.yee-pitaya-4,
+	.yee-pitaya-6,
+	.yee-pitaya-7,
+	.yee-pitaya-8,
+	.yee-pitaya-9,
+	.yee-pitaya-10 {
+		top: 10%;
+	}
+
+	.yee-pitaya-2,
+	.yee-pitaya-3,
+	.yee-pitaya-4,
+	.yee-pitaya-5,
+	.yee-pitaya-6,
+	.yee-pitaya-7,
+	.yee-pitaya-8,
+	.yee-pitaya-9,
+	.yee-pitaya-10{
+		left: 0;
+		width: 100%;
+		padding: 0 36px;
+
+		text-align: left;
+	}
+
+	.yee-pitaya-11 {
+		left: 0;
+		right: auto;
+		width: 100%;
+		padding: 0 36px;
+	}
+
+	.lightstrip-param {
+		margin: 0 10px 10px;
+		max-width: 120px;
+	}
+
+	/* Bedside lamp page */
+	.yee-cherry-1 {
+		top: 7%;
+	}
+
+	.yee-cherry-2 {
+		left: 0;
+		width: 100%;
+		padding: 0 36px;
+	}
+
+	.yee-cherry-2-special,
+	.yee-cherry-4-special,
+	.yee-cherry-5,
+	.yee-cherry-9,
+	.yee-cherry-5-multi-item {
+		display: none;
+	}
+
+	.yee-cherry-3,
+	.yee-cherry-4,
+	.yee-cherry-6,
+	.yee-cherry-7,
+	.yee-cherry-8 {
+		position: static;
+		padding: 0 32px 20px;
+		text-align: left;
+		width: 100%;
+	}
+
+	.yee-cherry-6 {
+		background: #d0d1d5;
+	}
+
+	.yee-cherry-5-special {
+		display: block;
+	}
+
+	.yee-dolphin-1,
+	.yee-dolphin-3,
+	.yee-dolphin-3-ct,
+	.yee-dolphin-5,
+	.yee-dolphin-6,
+	.yee-dolphin-4,
+    .yee-luna-1,
+    .yee-luna-3,
+    .yee-luna-4,
+    .yee-luna-5,
+    .yee-luna-6,
+    .yee-luna-7,
+    .yee-luna-8,
+    .yee-luna-9,
+    .yee-luna-10,
+    .yee-luna-11 {
+		top: 7%;
+		left: 0;
+
+		width: 100%;
+		padding: 0 32px;
+	}
+
+	.yee-dolphin-3,
+	.yee-dolphin-3-ct {
+		position: static;
+		margin-bottom: 50px;
+
+		text-align: left;
+	}
+
+	.yee-dolphin-4 {
+		background: linear-gradient(rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .3) 95%, rgba(0, 0, 0, 0) 100%);
+	}
+
+	.yee-wonder-11-right,
+	.yee-wonder-11-left {
+		width: 45%;
+	}
+
+	.yee-wonder-11-right {
+		right: 36px;
+		text-align: right;
+	}
+
+	.yee-wonder-11-left {
+		left: 36px;
+	}
+
+    /*luna*/
+    .yee-luna-1 .yee-text-level1{
+        font-size: 40px;
+        text-align: center;
+    }
+    .yee-luna-1 .yee-text-level3 {
+        font-size: 16px;
+        opacity: 0.6;
+        line-height: 24px;
+        padding-top: 30px;
+        color: #333;
+    }
+    .yee-secend-nav {
+        height: auto;
+        width: 90%;
+        margin-left: 5%;
+    }
+    .yee-secend-nav-icon {
+        padding-top: 30px;
+    }
+    .yee-secend-nav-item {
+        font-size: 13px;
+    }
+    .yee-secend-nav-name {
+        padding-bottom: 15px;
+    }
+}
+
+/* Phone media */
+@media (max-width: 450px) {
+
+	.yee-cherry-7-actions .am-u-sm-3 {
+		width: 50%;
+	}
+
+	.yee-wonder-10-items {
+		border-radius: 40px;
+		width: 250px;
+		font-size: 14px;
+	}
+
+	.yee-wonder-10-items-1 {
+		left: 0;
+		top: 55%;
+	}
+
+	.yee-wonder-10-items-2 {
+		top: 68%;
+		width: 200px;
+	}
+
+	.yee-wonder-10-items-3 {
+		top: 72%;
+		left: 0;
+		width: 200px;
+	}
+
+	.yee-wonder-10-items-4 {
+		top: 78%;
+		width: 200px;
+	}
+
+	.yee-wonder-10-items-5 {
+		top: 83%;
+		width: 200px;
+	}
+
+	.yee-wonder-10-items-3 .yee-wonder-10-items-text {
+		padding-left: 28px;
+		font-size: 12px;
+	}
+
+	.yee-wonder-10-items-4 .yee-wonder-10-items-text,
+	.yee-wonder-10-items-5 .yee-wonder-10-items-text {
+		font-size: 12px;
+
+		padding-left: 0;
+		padding-top: 5px;
+	}
+
+	.yee-dolphin-7-step {
+		bottom: 10px;
+	}
+
+	/* lightstrip page */
+	.yee-pitaya-2,
+	.yee-pitaya-3,
+	.yee-pitaya-4,
+	.yee-pitaya-5,
+	.yee-pitaya-6,
+	.yee-pitaya-7,
+	.yee-pitaya-8,
+	.yee-pitaya-9,
+	.yee-pitaya-10,
+	.yee-pitaya-11 {
+		padding: 0 16px;
+	}
+
+	.yee-pitaya-1 {
+		top: 20px;
+	}
+
+	.yee-pitaya-2,
+	.yee-pitaya-4,
+	.yee-pitaya-5,
+	.yee-pitaya-6,
+	.yee-pitaya-7,
+	.yee-pitaya-8,
+	.yee-pitaya-9,
+	.yee-pitaya-10 {
+		top: 10px;
+	}
+
+	.yee-pitaya-2 .yee-pitaya-2-body,
+	.yee-pitaya-3 .yee-pitaya-3-body,
+	.yee-pitaya-4 .yee-pitaya-4-body,
+	.yee-pitaya-5 .yee-pitaya-5-body,
+	.yee-pitaya-6 .yee-pitaya-6-body,
+	.yee-pitaya-7 .yee-pitaya-7-body,
+	.yee-pitaya-8 .yee-pitaya-8-body,
+	.yee-pitaya-9 .yee-pitaya-9-body,
+	.yee-pitaya-10 .yee-pitaya-10-body {
+		padding-top: 10px;
+	}
+
+	.yee-pitaya-2 .yee-pitaya-2-title,
+	.yee-pitaya-3 .yee-pitaya-3-title,
+	.yee-pitaya-4 .yee-pitaya-4-title,
+	.yee-pitaya-5 .yee-pitaya-5-title,
+	.yee-pitaya-6 .yee-pitaya-6-title,
+	.yee-pitaya-7 .yee-pitaya-7-title,
+	.yee-pitaya-8 .yee-pitaya-8-title,
+	.yee-pitaya-9 .yee-pitaya-9-title,
+	.yee-pitaya-10 .yee-pitaya-10-title,
+	.yee-pitaya-11 .yee-pitaya-11-title {
+		padding-top: 0;
+		font-size: 24px;
+		line-height: 28px;
+	}
+
+	.yee-dolphin-1,
+	.yee-dolphin-3,
+	.yee-dolphin-3-ct,
+	.yee-dolphin-5,
+	.yee-dolphin-6,
+	.yee-dolphin-4,
+    .yee-luna-1,
+    .yee-luna-3,
+    .yee-luna-4,
+    .yee-luna-5,
+    .yee-luna-6,
+    .yee-luna-7,
+    .yee-luna-8,
+    .yee-luna-9,
+    .yee-luna-10,
+    .yee-luna-11 {
+		top: 10px;
+	}
+
+	.yee-temp-buy-button {
+		display: none;
+	}
+
+	/* led lamp page */
+	.yee-mijia-1,
+	.yee-mijia-3,
+	.yee-mijia-4,
+	.yee-mijia-11 {
+		padding: 0 30px;
+	}
+
+	.yee-mijia-2 .yee-mijia-2-title {
+		padding-top: 0;
+	}
+
+	.yee-mijia-1 {
+		text-align: center;
+	}
+
+	.yee-mijia-1 .yee-mijia-1-name {
+		font-size: 26px;
+	}
+
+	.yee-mijia-1 .yee-mijia-1-title {
+		font-size: 18px;
+		padding-top: 20px;
+	}
+
+	.yee-mijia-1 .yee-mijia-1-title,
+	.yee-mijia-1 .yee-mijia-1-intro,
+	.yee-mijia-11 .yee-mijia-11-body {
+		padding-top: 10px;
+	}
+
+	.yee-mijia-10-honors {
+		width: 100%;
+		left: 0;
+		background-size: 100% 100%;
+	}
+
+	.yee-mijia-9-animate {
+		width: 70px;
+		left: auto;
+		right: 0;
+	}
+
+	.yee-wonder-11-compare {
+		display: none;
+	}
+
+	.yee-wonder-11-right {
+		right: 10px;
+		top: 10px;
+	}
+
+	.yee-wonder-11-left {
+		left: 10px;
+		top: 10px;
+	}
+
+	.yee-mijia-2-img {
+		min-height: 500px;
+		width: auto;
+		object-fit: cover;
+	}
+
+	.yee-mijia-2-special {
+		top: auto !important;
+		bottom: 100px;
+		left: 41%;
+	}
+
+	.yee-mijia-2-special .special-title {
+		font-size: 14px;
+		padding-top: 10px;
+	}
+
+	.yee-mijia-2-special .special-body {
+		font-size: 12px;
+	}
+
+	.yee-mijia-2-special .am-u-sm-6 {
+		width: 60%;
+	}
+    /*luna*/
+    .yee-luna-1 .yee-text-level1{
+        font-size: 40px;
+        text-align: center;
+    }
+    .yee-luna-1 .yee-text-level3 {
+        font-size: 16px;
+        opacity: 0.6;
+        line-height: 24px;
+        padding-top: 30px;
+        color: #333;
+    }
+    .yee-secend-nav {
+        height: auto;
+        width: 90%;
+        margin-left: 5%;
+    }
+    .yee-secend-nav-icon {
+        padding-top: 30px;
+    }
+    .yee-secend-nav-item {
+        font-size: 13px;
+    }
+    .yee-secend-nav-name {
+        padding-bottom: 15px;
+    }
+}
+
+/* small mobile media*/
+@media (max-width: 380px) {
+	.yee-pitaya-2 .yee-pitaya-2-body,
+	.yee-pitaya-3 .yee-pitaya-3-body,
+	.yee-pitaya-4 .yee-pitaya-4-body,
+	.yee-pitaya-5 .yee-pitaya-5-body,
+	.yee-pitaya-6 .yee-pitaya-6-body,
+	.yee-pitaya-7 .yee-pitaya-7-body,
+	.yee-pitaya-8 .yee-pitaya-8-body,
+	.yee-pitaya-9 .yee-pitaya-9-body,
+	.yee-mijia-9 .yee-mijia-9-body,
+	.yee-mijia-3 .yee-mijia-3-body,
+	.yee-pitaya-10 .yee-pitaya-10-body,
+	.yee-dolphin-4 .yee-dolphin-4-body,
+	.yee-dolphin-5 .yee-dolphin-5-body,
+	.yee-dolphin-6 .yee-dolphin-6-body,
+	.yee-dolphin-8 .yee-dolphin-8-body,
+	.yee-dolphin-7 .yee-dolphin-7-body,
+	.yee-wonder-10 .yee-wonder-10-body,
+	.yee-wonder-3 .yee-wonder-3-body,
+	.yee-wonder-4 .yee-wonder-4-body,
+	.yee-wonder-5 .yee-wonder-5-body,
+	.yee-cherry-7 .yee-cherry-7-body,
+	.yee-wonder-6 .yee-wonder-6-body,
+	.yee-wonder-7 .yee-wonder-7-body,
+	.yee-dolphin-2 .yee-dolphin-2-body {
+		font-size: 14px !important;
+		line-height: 18px;
+	}
+
+	.yee-mijia-11 .yee-mijia-11-title {
+		line-height: 1;
+	}
+
+	.yee-dolphin-7-step .am-u-sm-4 img {
+		max-width: 50px;
+	}
+
+	.yee-mijia-11 .yee-mijia-11-body {
+		font-size: 14px;
+	}
+
+	.yee-mijia-3,
+	.yee-mijia-7,
+	.yee-mijia-4,
+	.yee-wonder-3,
+	.yee-wonder-7,
+	.yee-wonder-9,
+	.yee-wonder-4,
+	.yee-dolphin-5,
+	.yee-dolphin-6,
+	.yee-mijia-9 {
+		top: 10px;
+	}
+
+	.yee-mijia-9 .yee-mijia-9-body,
+	.yee-mijia-3 .yee-mijia-3-body,
+	.yee-dolphin-4 .yee-dolphin-4-body,
+	.yee-dolphin-5 .yee-dolphin-5-body,
+	.yee-dolphin-6 .yee-dolphin-6-body,
+	.yee-dolphin-8 .yee-dolphin-8-body,
+	.yee-dolphin-7 .yee-dolphin-7-body,
+	.yee-cherry-7 .yee-cherry-7-body,
+	.yee-wonder-3 .yee-wonder-3-body,
+	.yee-wonder-10 .yee-wonder-10-body,
+	.yee-wonder-7 .yee-wonder-7-body,
+	.yee-wonder-2 .yee-wonder-2-body,
+	.yee-wonder-6 .yee-wonder-6-body,
+	.yee-wonder-8 .yee-wonder-8-body,
+	.yee-wonder-9 .yee-wonder-9-body,
+	.yee-wonder-2-special, .yee-wonder-2,
+	.yee-wonder-12 .yee-wonder-12-body,
+	.yee-dolphin-2 .yee-dolphin-2-body {
+		padding-top: 10px;
+	}
+
+	.yee-mijia-4 .yee-mijia-4-title {
+		padding-top: 0;
+	}
+
+	.yee-mijia-4 .yee-mijia-4-title,
+	.yee-dolphin-4 .yee-dolphin-4-title,
+	.yee-dolphin-6 .yee-dolphin-6-title,
+	.yee-dolphin-5 .yee-dolphin-5-title,
+	.yee-dolphin-7 .yee-dolphin-7-title,
+	.yee-dolphin-8 .yee-dolphin-8-title,
+	.yee-dolphin-9 .yee-dolphin-9-title,
+	.yee-dolphin-2 .yee-dolphin-2-title,
+	.yee-wonder-3 .yee-wonder-3-title,
+	.yee-wonder-4 .yee-wonder-4-title,
+	.yee-wonder-5 .yee-wonder-5-title,
+	.yee-wonder-6 .yee-wonder-6-title,
+	.yee-wonder-11-title,
+	.yee-wonder-8 .yee-wonder-8-title,
+	.yee-wonder-9 .yee-wonder-9-title,
+	.yee-wonder-12 .yee-wonder-12-title,
+	.yee-wonder-7 .yee-wonder-7-title,
+	.yee-mijia-9 .yee-mijia-9-title {
+		font-size: 22px !important;
+		line-height: 1;
+	}
+
+	.yee-mijia-6-accuracy-step {
+		padding: 0 10px;
+	}
+
+	.yee-wonder-1 .yee-wonder-1-name {
+		font-size: 36px;
+	}
+
+	.yee-wonder-1 .yee-wonder-1-intro {
+		padding-top: 0;
+	}
+
+	.yee-wonder-2-special .am-u-sm-2 {
+		width: 47%;
+		margin-right: 8px;
+	}
+
+	.yee-wonder-10-items-1 {
+		width: 200px
+	}
+
+	.yee-wonder-10-items-1 .yee-wonder-10-items-text {
+		font-size: 12px;
+		padding-right: 0;
+		padding-top: 3px;
+	}
+
+	.yee-cherry-2-titletop {
+		display: none;
+	}
+
+	.yee-cherry-7-actions .am-u-sm-3 {
+		padding: 0;
+		margin-bottom: 20px;
+	}
+
+	.yee-cherry-7-actions .actions-intro,
+	.yee-cherry-7-actions .am-thumbnail-caption {
+		max-width: 100px;
+		margin: auto;
+	}
+
+	.yee-cherry-7-actions .am-u-sm-3 img {
+		max-width: 70px;
+	}
+
+	.yee-mijia-2-special {
+		bottom: 30px;
+	}
+
+	.yee-cherry-5-special-item__text_top {
+		top: 10px
+	}
+
+	.yee-cherry-5-special-item__text_bottom {
+		bottom: 10px;
+	}
+
+	.yee-dolphin-4,
+	.yee-dolphin-5 {
+		padding: 0 30px;
+	}
+    .yee-text-normal {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    .yee-intro-normal {
+        font-size: 13px;
+        line-height: 17px;
+        padding-top: 10px;
+    }
+}
+
+
+

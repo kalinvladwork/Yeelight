@@ -1,0 +1,1624 @@
+.mj-leddeng-box {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga","kern";
+  padding-top: 50px;
+  overflow: inherit; }
+  .mj-leddeng-box h1, .mj-leddeng-box h2, .mj-leddeng-box h3, .mj-leddeng-box h4, .mj-leddeng-box h5, .mj-leddeng-box h6, .mj-leddeng-box strong, .mj-leddeng-box p, .mj-leddeng-box ul, .mj-leddeng-box li, .mj-leddeng-box dl, .mj-leddeng-box dd, .mj-leddeng-box span, .mj-leddeng-box b, .mj-leddeng-box em, .mj-leddeng-box i {
+    margin: 0 auto;
+    font-style: normal;
+    font-weight: normal;
+    list-style: none;
+    padding: 0; }
+  .mj-leddeng-box .cl:after {
+    content: '';
+    clear: both;
+    height: 0;
+    display: block;
+    width: 100%; }
+  .mj-leddeng-box .text-content {
+    width: 1200px;
+    margin-left: -600px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 2; }
+    .mj-leddeng-box .text-content h1.title-h1 {
+      font-size: 45px;
+      height: 50px;
+      line-height: 50px; }
+    .mj-leddeng-box .text-content h2.title-h2 {
+      font-size: 36px;
+      height: 40px;
+      line-height: 40px;
+      margin-bottom: 20px; }
+    .mj-leddeng-box .text-content h3.title-h3 {
+      font-size: 24px;
+      height: 30px;
+      line-height: 30px;
+      margin-bottom: 20px; }
+    .mj-leddeng-box .text-content span.title-info {
+      font-size: 16px;
+      color: #737373; }
+      .mj-leddeng-box .text-content span.title-info em {
+        padding: 0 10px; }
+    .mj-leddeng-box .text-content p.title-info {
+      font-size: 16px;
+      line-height: 30px; }
+    .mj-leddeng-box .text-content .money {
+      font-family: "Avenir", arial, sans-serif;
+      font-size: 64px; }
+      .mj-leddeng-box .text-content .money em {
+        font-size: 20px;
+        padding-left: 10px; }
+  .mj-leddeng-box .mj-itmes {
+    position: relative; }
+    .mj-leddeng-box .mj-itmes div.tips-alert {
+      position: absolute;
+      text-align: center;
+      left: 0;
+      width: 100%;
+      bottom: 30px;
+      color: #000;
+      z-index: 1;
+      font-size: 16px; }
+  .mj-leddeng-box .leddeng-section-01 {
+    height: 1250px;
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng1.jpg) no-repeat center top; }
+    .mj-leddeng-box .leddeng-section-01 .text-content {
+      width: 600px;
+      top: 480px;
+      margin-left: -360px;
+      text-align: left;
+      color: #000; }
+      .mj-leddeng-box .leddeng-section-01 .text-content h1.title-h1 {
+        opacity: 0.7;
+        filter: alpha(opacity=70); }
+      .mj-leddeng-box .leddeng-section-01 .text-content h2.title-h2 {
+        font-size: 30px;
+        opacity: 0.7;
+        filter: alpha(opacity=70);
+        margin-top: 8px; }
+      .mj-leddeng-box .leddeng-section-01 .text-content .money {
+        color: #fc4b1e;
+        margin-top: 30px; }
+  .mj-leddeng-box .leddeng-section-02 {
+    height: 2187px;
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng2.jpg) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-02 .text-content {
+      text-align: left;
+      width: 590px;
+      margin: -220px 0 0 0; }
+      .mj-leddeng-box .leddeng-section-02 .text-content h2.title-h2, .mj-leddeng-box .leddeng-section-02 .text-content p.text-info {
+        opacity: 0.8;
+        filter: alpha(opacity=80); }
+      .mj-leddeng-box .leddeng-section-02 .text-content ul {
+        padding-top: 130px; }
+        .mj-leddeng-box .leddeng-section-02 .text-content ul li {
+          width: 50%;
+          height: 200px;
+          text-align: left;
+          float: left; }
+          .mj-leddeng-box .leddeng-section-02 .text-content ul li strong {
+            color: #dc4e3a;
+            font-size: 30px;
+            margin-bottom: 10px; }
+          .mj-leddeng-box .leddeng-section-02 .text-content ul li span {
+            font-size: 14px;
+            color: #000;
+            opacity: 0.8;
+            filter: alpha(opacity=80); }
+          .mj-leddeng-box .leddeng-section-02 .text-content ul li strong, .mj-leddeng-box .leddeng-section-02 .text-content ul li span {
+            display: block; }
+  .mj-leddeng-box .leddeng-section-03 {
+    height: 746px; }
+    .mj-leddeng-box .leddeng-section-03 .mj-listitems {
+      height: 746px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      top: 0;
+      overflow: hidden; }
+      .mj-leddeng-box .leddeng-section-03 .mj-listitems i {
+        display: block;
+        height: 746px;
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng2-1.jpg) no-repeat;
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+        -webkit-transition: transform 1s;
+        -moz-transition: transform 1s;
+        -ms-transition: transform 1s;
+        -o-transition: transform 1s;
+        transition: transform 1s; }
+        .mj-leddeng-box .leddeng-section-03 .mj-listitems i:hover {
+          -webkit-transform: scale(1.05);
+          -moz-transform: scale(1.05);
+          -ms-transform: scale(1.05);
+          -o-transform: scale(1.05);
+          transform: scale(1.05); }
+      .mj-leddeng-box .leddeng-section-03 .mj-listitems-01 {
+        margin-left: -1279px;
+        width: 928px; }
+        .mj-leddeng-box .leddeng-section-03 .mj-listitems-01 i {
+          background-position: left center; }
+      .mj-leddeng-box .leddeng-section-03 .mj-listitems-02 {
+        margin-left: -351px;
+        width: 702px; }
+        .mj-leddeng-box .leddeng-section-03 .mj-listitems-02 i {
+          background-position: center center; }
+      .mj-leddeng-box .leddeng-section-03 .mj-listitems-03 {
+        margin-left: 351px;
+        width: 929px; }
+        .mj-leddeng-box .leddeng-section-03 .mj-listitems-03 i {
+          background-position: right center; }
+  .mj-leddeng-box .leddeng-section-04 {
+    height: 1255px;
+    background: #000 url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng4.jpg) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-04 .text-content {
+      top: 130px;
+      color: #fff; }
+      .mj-leddeng-box .leddeng-section-04 .text-content h2.title-h2 {
+        margin-bottom: 10px; }
+      .mj-leddeng-box .leddeng-section-04 .text-content h3.title-h3 {
+        opacity: 0.8;
+        filter: alpha(opacity=80); }
+      .mj-leddeng-box .leddeng-section-04 .text-content p.title-info {
+        opacity: 0.7;
+        filter: alpha(opacity=70); }
+    .mj-leddeng-box .leddeng-section-04 a.btn-play {
+      width: 145px;
+      height: 145px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      margin: -73px 0 0 -73px;
+      background: url(../img/btn-play.png) no-repeat 0 0;
+      -webkit-transition: all 0.2s;
+      -moz-transition: all 0.2s;
+      -ms-transition: all 0.2s;
+      -o-transition: all 0.2s;
+      transition: all 0.2s; }
+      .mj-leddeng-box .leddeng-section-04 a.btn-play:hover {
+        opacity: 0.7;
+        filter: alpha(opacity=70); }
+  .mj-leddeng-box .leddeng-section-05 {
+    height: 755px;
+    background: #2b2f35 url(../img/mj-leddeng5.png) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-05 .text-content {
+      top: 100px;
+      color: #fff; }
+      .mj-leddeng-box .leddeng-section-05 .text-content h2.title-h2 {
+        font-size: 25px;
+        margin-top: 8px;
+        opacity: 0.7;
+        filter: alpha(opacity=70); }
+    .mj-leddeng-box .leddeng-section-05 div.tips-alert {
+      color: #464b58;
+      bottom: 80px; }
+  .mj-leddeng-box .leddeng-section-06 {
+    height: 1440px;
+    overflow: hidden; }
+    .mj-leddeng-box .leddeng-section-06 .text-content {
+      top: 130px;
+      color: #fff; }
+      .mj-leddeng-box .leddeng-section-06 .text-content h2.title-h2 {
+        opacity: 0.8;
+        filter: alpha(opacity=80); }
+      .mj-leddeng-box .leddeng-section-06 .text-content p.title-info {
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+        margin-bottom: 50px; }
+      .mj-leddeng-box .leddeng-section-06 .text-content a {
+        font-size: 14px;
+        color: #fff;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+        text-decoration: underline; }
+    .mj-leddeng-box .leddeng-section-06 .leddeng-section-items {
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      filter: alpha(opacity=0);
+      -webkit-transition: opacity 1s;
+      -moz-transition: opacity 1s;
+      -ms-transition: opacity 1s;
+      -o-transition: opacity 1s;
+      transition: opacity 1s; }
+      .mj-leddeng-box .leddeng-section-06 .leddeng-section-items.cur {
+        opacity: 1;
+        filter: alpha(opacity=100); }
+      .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content {
+        width: 815px;
+        height: 219px;
+        margin-top: -140px;
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-05.png) no-repeat 0 0;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        margin-left: -407px; }
+        .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .text-items-info {
+          padding: 30px 0 0 230px;
+          position: relative;
+          height: 189px; }
+          .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .text-items-info:after {
+            content: '';
+            width: 119px;
+            height: 119px;
+            background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-06.png) no-repeat;
+            position: absolute;
+            left: 65px;
+            top: 50%;
+            margin-top: -59px; }
+        .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content strong {
+          display: block;
+          font-size: 22px;
+          color: #fc4b1e;
+          margin: 20px 0 5px 0; }
+        .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content p {
+          font-size: 16px;
+          color: #87807a;
+          line-height: 26px; }
+        .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .tips-alert {
+          text-align: left;
+          font-size: 14px;
+          color: #555c60;
+          opacity: 0.5;
+          filter: alpha(opacity=50);
+          padding-left: 10px;
+          bottom: -90px;
+          line-height: 26px;
+          left: 100px; }
+          .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .tips-alert em {
+            color: #FF4A00;
+            margin-left: -10px; }
+    .mj-leddeng-box .leddeng-section-06-a {
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-01.jpg) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-06-b {
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-02.jpg) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-06-c {
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-03.jpg) no-repeat center center; }
+      .mj-leddeng-box .leddeng-section-06-c .text-items-content p {
+        color: #000 !important;
+        opacity: 0.8;
+        filter: alpha(opacity=80); }
+    .mj-leddeng-box .leddeng-section-06-d {
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-04.jpg) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-06 .navigation {
+      position: fixed;
+      top: 50%;
+      height: 104px;
+      margin: 0;
+      right: 50px;
+      width: 25px;
+      padding: 0;
+      z-index: 4;
+      margin-top: -52px; }
+      .mj-leddeng-box .leddeng-section-06 .navigation li {
+        width: 25px;
+        height: 25px;
+        font-size: 0;
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng-position.png) no-repeat -31px -46px; }
+        .mj-leddeng-box .leddeng-section-06 .navigation li.cur {
+          background-position: -31px -67px; }
+  .mj-leddeng-box .leddeng-section-07 {
+    height: 1825px;
+    background: #e3e4e4; }
+    .mj-leddeng-box .leddeng-section-07 .text-content {
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng7-01.png) no-repeat center bottom;
+      padding-bottom: 200px; }
+      .mj-leddeng-box .leddeng-section-07 .text-content h2.title-h2, .mj-leddeng-box .leddeng-section-07 .text-content h3.title-h3, .mj-leddeng-box .leddeng-section-07 .text-content .title-info {
+        opacity: 0.8;
+        filter: alpha(opacity=80); }
+      .mj-leddeng-box .leddeng-section-07 .text-content h2.title-h2 {
+        margin-bottom: 10px; }
+    .mj-leddeng-box .leddeng-section-07-a {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 1825px;
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng7.jpg) no-repeat center top; }
+      .mj-leddeng-box .leddeng-section-07-a:after {
+        width: 100%;
+        height: 100%;
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng7-03.jpg) no-repeat center top;
+        content: '';
+        -webkit-transition: opacity 1.5s 0.5s;
+        -moz-transition: opacity 1.5s 0.5s;
+        -ms-transition: opacity 1.5s 0.5s;
+        -o-transition: opacity 1.5s 0.5s;
+        transition: opacity 1.5s 0.5s;
+        position: absolute;
+        opacity: 0;
+        filter: alpha(opacity=0); }
+    .mj-leddeng-box .leddeng-section-07-b {
+      width: 100%;
+      height: 330px;
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng7-02.png) no-repeat center top;
+      position: absolute;
+      left: 0;
+      bottom: 100px;
+      z-index: 2; }
+    .mj-leddeng-box .leddeng-section-07.mj-active .leddeng-section-07-a:after {
+      opacity: 1;
+      filter: alpha(opacity=100); }
+  .mj-leddeng-box .leddeng-section-08 {
+    height: 745px;
+    background: #242525; }
+    .mj-leddeng-box .leddeng-section-08 .text-content {
+      width: 500px;
+      color: #fff;
+      text-align: left;
+      margin: -37px 0 0 90px;
+      opacity: 0.8;
+      filter: alpha(opacity=80); }
+    .mj-leddeng-box .leddeng-section-08-a {
+      width: 2037px;
+      height: 351px;
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng8-01.png) no-repeat center center;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      margin: -175px 0 0 -2520px;
+      -webkit-transition: all 1.5s 0.5s;
+      -moz-transition: all 1.5s 0.5s;
+      -ms-transition: all 1.5s 0.5s;
+      -o-transition: all 1.5s 0.5s;
+      transition: all 1.5s 0.5s; }
+      .mj-leddeng-box .leddeng-section-08-a i {
+        width: 2037px;
+        height: 351px;
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng8-02.png) no-repeat left 74px;
+        display: block;
+        -webkit-transition: all 1s 2.5s;
+        -moz-transition: all 1s 2.5s;
+        -ms-transition: all 1s 2.5s;
+        -o-transition: all 1s 2.5s;
+        transition: all 1s 2.5s; }
+    .mj-leddeng-box .leddeng-section-08.mj-active .leddeng-section-08-a {
+      margin: -175px 0 0 -2100px; }
+      .mj-leddeng-box .leddeng-section-08.mj-active .leddeng-section-08-a i {
+        opacity: 0;
+        filter: alpha(opacity=0); }
+  .mj-leddeng-box .leddeng-section-09 {
+    height: 860px;
+    background: #fff; }
+    .mj-leddeng-box .leddeng-section-09 .text-content {
+      text-align: left;
+      color: #555c60;
+      top: 160px; }
+      .mj-leddeng-box .leddeng-section-09 .text-content h2.title-h2 em {
+        color: #fc4b1e; }
+      .mj-leddeng-box .leddeng-section-09 .text-content div.title-info {
+        color: #666; }
+      .mj-leddeng-box .leddeng-section-09 .text-content p.tips-title-info {
+        color: #b2b5b7;
+        font-size: 14px;
+        margin-top: 10px; }
+    .mj-leddeng-box .leddeng-section-09-a {
+      width: 1200px;
+      height: 400px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      margin: -360px 0 0 -600px; }
+    .mj-leddeng-box .leddeng-section-09-bg {
+      position: absolute;
+      bottom: 0;
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng9.png) no-repeat;
+      height: 400px;
+      -webkit-transition: transform 1.5s 0.5s;
+      -moz-transition: transform 1.5s 0.5s;
+      -ms-transition: transform 1.5s 0.5s;
+      -o-transition: transform 1.5s 0.5s;
+      transition: transform 1.5s 0.5s; }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-01 {
+      width: 160px;
+      background-position: 0 0;
+      z-index: 21;
+      margin-left: -1154px;
+      transform: translate(497px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-02 {
+      width: 105px;
+      background-position: -165px 0;
+      z-index: 20;
+      margin-left: -986px;
+      transform: translate(435px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-03 {
+      width: 78px;
+      background-position: -274px 0;
+      z-index: 19;
+      margin-left: -876px;
+      transform: translate(390px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-04 {
+      width: 78px;
+      background-position: -354px 0;
+      z-index: 18;
+      margin-left: -789px;
+      transform: translate(352px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-05 {
+      width: 78px;
+      background-position: -434px 0;
+      z-index: 17;
+      margin-left: -703px;
+      transform: translate(307px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-06 {
+      width: 77px;
+      background-position: -513px 0;
+      z-index: 16;
+      margin-left: -618px;
+      transform: translate(268px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-07 {
+      width: 76px;
+      background-position: -588px 0;
+      z-index: 15;
+      margin-left: -532px;
+      transform: translate(227px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-08 {
+      width: 96px;
+      background-position: -665px 0;
+      z-index: 14;
+      margin-left: -450px;
+      transform: translate(171px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-09 {
+      width: 151px;
+      background-position: -765px 0;
+      z-index: 13;
+      margin-left: -360px;
+      transform: translate(127px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-10 {
+      width: 90px;
+      background-position: -916px 0;
+      z-index: 12;
+      margin-left: -202px;
+      transform: translate(57px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-11 {
+      width: 80px;
+      background-position: -1006px 0;
+      z-index: 11;
+      margin-left: -105px;
+      transform: translate(27px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-12 {
+      width: 136px;
+      background-position: -1094px 0;
+      margin-left: -18px;
+      transform: translate(17px, 0); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-14 {
+      width: 346px;
+      height: 310px;
+      margin-bottom: 390px;
+      background-position: -1579px -115px;
+      margin-left: -18px;
+      transform: translate(0, 25px); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-15 {
+      width: 346px;
+      height: 130px;
+      margin-bottom: 690px;
+      background-position: -1579px 5px;
+      margin-left: -18px;
+      transform: translate(0, 65px); }
+    .mj-leddeng-box .leddeng-section-09 .list-bg-13 {
+      width: 297px;
+      left: 50%;
+      margin-left: 300px;
+      background-position: -1274px 30px; }
+    .mj-leddeng-box .leddeng-section-09.mj-active .leddeng-section-09-bg {
+      transform: translate(0, 0); }
+  .mj-leddeng-box .leddeng-section-10 {
+    height: 1035px;
+    background: #383b63 url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng10.jpg) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-10 .text-content {
+      color: #fff;
+      top: 130px; }
+      .mj-leddeng-box .leddeng-section-10 .text-content p {
+        opacity: 0.7;
+        filter: alpha(opacity=70); }
+    .mj-leddeng-box .leddeng-section-10-bg {
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng10-01.png) no-repeat center bottom;
+      position: absolute;
+      left: 50%;
+      bottom: 0;
+      opacity: 0;
+      filter: alpha(opacity=0); }
+      .mj-leddeng-box .leddeng-section-10-bg span {
+        width: 40px;
+        height: 1px;
+        background: #fff;
+        right: -60px;
+        top: 50%;
+        opacity: 0.4;
+        filter: alpha(opacity=40);
+        position: absolute; }
+        .mj-leddeng-box .leddeng-section-10-bg span i {
+          color: #fff;
+          display: block;
+          line-height: 1px;
+          margin-left: 50px;
+          width: 100px; }
+    .mj-leddeng-box .leddeng-section-10-a {
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng10-01.png) no-repeat center bottom;
+      position: absolute;
+      left: 50%;
+      bottom: 0;
+      width: 1612px;
+      height: 680px;
+      margin-left: -800px; }
+    .mj-leddeng-box .leddeng-section-10 .list-bg-01 {
+      width: 1556px;
+      height: 55px;
+      margin-left: -800px;
+      background-position: 222px -80px;
+      bottom: 470px;
+      transform: translate(0, -50px);
+      -webkit-transition: all 0.3s ease-out 0.3s;
+      -moz-transition: all 0.3s ease-out 0.3s;
+      -ms-transition: all 0.3s ease-out 0.3s;
+      -o-transition: all 0.3s ease-out 0.3s;
+      transition: all 0.3s ease-out 0.3s; }
+    .mj-leddeng-box .leddeng-section-10 .list-bg-02 {
+      width: 1556px;
+      height: 20px;
+      margin-left: -800px;
+      background-position: 222px -192px;
+      bottom: 386px;
+      transform: translate(0, -100px);
+      -webkit-transition: all 0.5s ease-out 0.6s;
+      -moz-transition: all 0.5s ease-out 0.6s;
+      -ms-transition: all 0.5s ease-out 0.6s;
+      -o-transition: all 0.5s ease-out 0.6s;
+      transition: all 0.5s ease-out 0.6s; }
+      .mj-leddeng-box .leddeng-section-10 .list-bg-02 span {
+        right: -5px; }
+    .mj-leddeng-box .leddeng-section-10 .list-bg-03 {
+      width: 1556px;
+      height: 25px;
+      margin-left: -800px;
+      background-position: 222px -269px;
+      bottom: 299px;
+      transform: translate(0, -150px);
+      -webkit-transition: all 0.7s ease-out 1.2s;
+      -moz-transition: all 0.7s ease-out 1.2s;
+      -ms-transition: all 0.7s ease-out 1.2s;
+      -o-transition: all 0.7s ease-out 1.2s;
+      transition: all 0.7s ease-out 1.2s; }
+      .mj-leddeng-box .leddeng-section-10 .list-bg-03 span {
+        right: -35px; }
+    .mj-leddeng-box .leddeng-section-10 .list-bg-04 {
+      width: 1612px;
+      height: 230px;
+      margin-left: -800px;
+      background-position: 222px -309px;
+      bottom: 40px;
+      transform: translate(0, -200px);
+      -webkit-transition: all 0.9s ease-out 1.8s;
+      -moz-transition: all 0.9s ease-out 1.8s;
+      -ms-transition: all 0.9s ease-out 1.8s;
+      -o-transition: all 0.9s ease-out 1.8s;
+      transition: all 0.9s ease-out 1.8s; }
+      .mj-leddeng-box .leddeng-section-10 .list-bg-04 span {
+        right: 0;
+        margin-top: -56px; }
+    .mj-leddeng-box .leddeng-section-10.mj-active .leddeng-section-10-bg {
+      opacity: 1;
+      filter: alpha(opacity=100);
+      transform: translate(0, 0); }
+  .mj-leddeng-box .leddeng-section-11 {
+    height: 1175px;
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng11.jpg) no-repeat center center; }
+  .mj-leddeng-box .leddeng-section-12 {
+    height: 890px;
+    background: #eeeeee; }
+    .mj-leddeng-box .leddeng-section-12 .text-content {
+      top: 120px;
+      color: #555c60; }
+      .mj-leddeng-box .leddeng-section-12 .text-content ul {
+        overflow: hidden;
+        width: 1050px;
+        margin-top: 70px; }
+        .mj-leddeng-box .leddeng-section-12 .text-content ul li {
+          width: 350px;
+          height: 250px;
+          float: left;
+          border-left: 1px solid #dcdcdc;
+          border-top: 1px solid #dcdcdc;
+          margin: -1px 0 0 -1px; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li i {
+            background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng12.png) no-repeat;
+            display: block;
+            height: 90px;
+            width: 100px;
+            margin: 20px auto 0 auto; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li strong, .mj-leddeng-box .leddeng-section-12 .text-content ul li span {
+            display: block; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li strong {
+            font-size: 16px;
+            margin-bottom: 20px;
+            color: #7f7f7f; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li span {
+            font-size: 14px;
+            color: #afafaf;
+            line-height: 22px; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li.mj-items-01 i {
+            background-position: 8px 0; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li.mj-items-02 i {
+            background-position: -179px 0; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li.mj-items-03 i {
+            background-position: -342px 0; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li.mj-items-04 i {
+            background-position: 8px -114px; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li.mj-items-05 i {
+            background-position: -179px -108px; }
+          .mj-leddeng-box .leddeng-section-12 .text-content ul li.mj-items-06 i {
+            background-position: -344px -110px; }
+    .mj-leddeng-box .leddeng-section-12 div.tips-alert {
+      color: #a2a2a2;
+      font-size: 14px;
+      bottom: 80px; }
+  .mj-leddeng-box .leddeng-section-13 {
+    background: #f4f4f4;
+    height: 1040px; }
+    .mj-leddeng-box .leddeng-section-13 ul {
+      width: 1580px; }
+      .mj-leddeng-box .leddeng-section-13 ul .mj-items {
+        height: 1040px;
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng13.jpg) no-repeat center bottom;
+        width: 495px;
+        height: 1040px;
+        float: left; }
+        .mj-leddeng-box .leddeng-section-13 ul .mj-items-01 {
+          background-position: left bottom;
+          -webkit-transform: translate(0, 300px);
+          -moz-transform: translate(0, 300px);
+          -ms-transform: translate(0, 300px);
+          -o-transform: translate(0, 300px);
+          transform: translate(0, 300px);
+          -webkit-transition: transform 1s ease-out 1.5s;
+          -moz-transition: transform 1s ease-out 1.5s;
+          -ms-transition: transform 1s ease-out 1.5s;
+          -o-transition: transform 1s ease-out 1.5s;
+          transition: transform 1s ease-out 1.5s; }
+        .mj-leddeng-box .leddeng-section-13 ul .mj-items-02 {
+          background-position: -578px bottom;
+          margin: 0 47px;
+          -webkit-transform: translate(0, 300px);
+          -moz-transform: translate(0, 300px);
+          -ms-transform: translate(0, 300px);
+          -o-transform: translate(0, 300px);
+          transform: translate(0, 300px);
+          -webkit-transition: transform 1s ease-out 1s;
+          -moz-transition: transform 1s ease-out 1s;
+          -ms-transition: transform 1s ease-out 1s;
+          -o-transition: transform 1s ease-out 1s;
+          transition: transform 1s ease-out 1s; }
+        .mj-leddeng-box .leddeng-section-13 ul .mj-items-03 {
+          background-position: -1138px bottom;
+          -webkit-transform: translate(0, 300px);
+          -moz-transform: translate(0, 300px);
+          -ms-transform: translate(0, 300px);
+          -o-transform: translate(0, 300px);
+          transform: translate(0, 300px);
+          -webkit-transition: transform 1s ease-out 0.5s;
+          -moz-transition: transform 1s ease-out 0.5s;
+          -ms-transition: transform 1s ease-out 0.5s;
+          -o-transition: transform 1s ease-out 0.5s;
+          transition: transform 1s ease-out 0.5s; }
+    .mj-leddeng-box .leddeng-section-13.mj-active ul li.mj-items {
+      -webkit-transform: translate(0, 0);
+      -moz-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+      -o-transform: translate(0, 0);
+      transform: translate(0, 0); }
+
+@media (max-height: 1080px) and (max-width: 1920px) {
+  .mj-leddeng-box .leddeng-section-03 {
+    height: 560px; }
+    .mj-leddeng-box .leddeng-section-03 .mj-listitems {
+      height: 560px;
+      overflow: hidden; }
+      .mj-leddeng-box .leddeng-section-03 .mj-listitems i {
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng2-1-1080.jpg) no-repeat;
+        height: 560px; }
+      .mj-leddeng-box .leddeng-section-03 .mj-listitems-01 i {
+        background-position: 236px 0; }
+      .mj-leddeng-box .leddeng-section-03 .mj-listitems-02 {
+        width: 528px; }
+        .mj-leddeng-box .leddeng-section-03 .mj-listitems-02 i {
+          background-position: -697px 0; }
+      .mj-leddeng-box .leddeng-section-03 .mj-listitems-03 {
+        margin-left: 177px; }
+        .mj-leddeng-box .leddeng-section-03 .mj-listitems-03 i {
+          background-position: -1226px 0; }
+
+  .mj-leddeng-box .leddeng-section-04 {
+    height: 941px;
+    background: #000 url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng4-1080.jpg) no-repeat center center; }
+
+  .leddeng-section-06 .leddeng-section-06-a {
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-01-1080.jpg) no-repeat center center; }
+
+  .leddeng-section-06 .leddeng-section-06-b {
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-02-1080.jpg) no-repeat center center; }
+
+  .leddeng-section-06 .leddeng-section-06-c {
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-03-1080.jpg) no-repeat center center; }
+
+  .leddeng-section-06 .leddeng-section-06-d {
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-04-1080.jpg) no-repeat center center; }
+
+  .mj-leddeng-box .leddeng-section-06 .text-content {
+    top: 50px; }
+    .mj-leddeng-box .leddeng-section-06 .text-content p.title-info {
+      margin-bottom: 30px; }
+
+  .mj-leddeng-box .leddeng-section-13 {
+    height: 768px; }
+    .mj-leddeng-box .leddeng-section-13 ul {
+      width: 1234px;
+      padding-top: 100px; }
+    .mj-leddeng-box .leddeng-section-13 ul .mj-items {
+      width: 380px;
+      height: 668px;
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng13-1080.jpg) no-repeat center bottom; }
+      .mj-leddeng-box .leddeng-section-13 ul .mj-items-01 {
+        background-position: -4px 0; }
+      .mj-leddeng-box .leddeng-section-13 ul .mj-items-02 {
+        background-position: -424px 0; }
+      .mj-leddeng-box .leddeng-section-13 ul .mj-items-03 {
+        background-position: -845px 0; }
+
+  .mj-leddeng-box .leddeng-section-07 {
+    height: 1388px; }
+    .mj-leddeng-box .leddeng-section-07-a {
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng7-1080.jpg) no-repeat center top; }
+      .mj-leddeng-box .leddeng-section-07-a:after {
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng7-03-1080.jpg) no-repeat center top; }
+    .mj-leddeng-box .leddeng-section-07-b {
+      width: 900px;
+      left: 50%;
+      margin-left: -450px;
+      height: 251px;
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng7-02-1080.png) no-repeat center top; }
+    .mj-leddeng-box .leddeng-section-07 .text-content {
+      margin: -40px 0 0 -600px;
+      padding-bottom: 140px; }
+
+  .mj-leddeng-box .leddeng-section-11 {
+    height: 881px;
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng11-1080.jpg) no-repeat center center; } }
+@media (max-height: 768px) and (max-width: 1366px) {
+  .mj-leddeng-box .leddeng-section-06 .text-content h2.title-h2 {
+    font-size: 26px;
+    margin-bottom: 5px; }
+  .mj-leddeng-box .leddeng-section-06-a {
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-01-768.jpg) no-repeat center center; }
+  .mj-leddeng-box .leddeng-section-06-b {
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-02-768.jpg) no-repeat center center; }
+  .mj-leddeng-box .leddeng-section-06-c {
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-03-768.jpg) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-06-c .text-items-content {
+      margin: -100px 0 0 -270px !important; }
+  .mj-leddeng-box .leddeng-section-06-d {
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-04-768.jpg) no-repeat center center; }
+    .mj-leddeng-box .leddeng-section-06-d .text-items-content .text-items-info strong {
+      margin: 5px 0 0 0 !important; }
+  .mj-leddeng-box .leddeng-section-06 .text-content {
+    top: 40px; }
+    .mj-leddeng-box .leddeng-section-06 .text-content p.title-info {
+      font-size: 14px;
+      margin-bottom: 20px;
+      line-height: 22px; }
+  .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content {
+    width: 500px;
+    height: 134px;
+    margin: -60px 0 0 -270px;
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-05-768.png) no-repeat 0 0; }
+    .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .text-items-info {
+      height: 124px;
+      padding: 10px 0 0 110px; }
+      .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .text-items-info strong {
+        font-size: 18px;
+        margin: 10px 0 5px 0; }
+      .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .text-items-info p {
+        font-size: 12px;
+        line-height: 20px; }
+    .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .text-items-info:after {
+      left: 35px;
+      margin-top: -24px;
+      width: 50px;
+      height: 50px;
+      background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng6-06-768.png) no-repeat; }
+    .mj-leddeng-box .leddeng-section-06 .leddeng-section-items .text-items-content .tips-alert {
+      font-size: 12px;
+      left: 50px;
+      bottom: -70px; }
+
+  .mj-leddeng-box .leddeng-section-10-bg span {
+    right: auto !important;
+    left: 50%;
+    background: none; }
+  .mj-leddeng-box .leddeng-section-10-bg.list-bg-01 span {
+    margin-top: -40px; }
+  .mj-leddeng-box .leddeng-section-10-bg.list-bg-02 span {
+    margin-top: -22px; }
+  .mj-leddeng-box .leddeng-section-10-bg.list-bg-03 span {
+    margin-top: -26px; }
+  .mj-leddeng-box .leddeng-section-10-bg.list-bg-04 span {
+    margin-top: -93px; } }
+.mj-leddeng-info {
+  width: 1226px;
+  margin: 0 auto;
+  overflow: hidden; }
+  .mj-leddeng-info ul {
+    padding: 40px 0;
+    margin: 0; }
+    .mj-leddeng-info ul li {
+      overflow: hidden;
+      list-style: none; }
+      .mj-leddeng-info ul li .cp-header-img {
+        background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng-info.png) no-repeat center center;
+        width: 877px;
+        height: 486px; }
+      .mj-leddeng-info ul li .info-left-title {
+        left: 0;
+        position: absolute;
+        width: 300px;
+        text-align: center;
+        border-right: 1px solid #e9e9e9;
+        top: 0;
+        height: 100%; }
+        .mj-leddeng-info ul li .info-left-title span {
+          font-size: 20px;
+          color: #000;
+          position: absolute;
+          left: 0;
+          top: 50%;
+          margin-top: -20px;
+          width: 100%; }
+      .mj-leddeng-info ul li .info-right-msg {
+        color: #999;
+        border-bottom: 1px solid #e9e9e9;
+        position: relative;
+        padding-left: 300px; }
+        .mj-leddeng-info ul li .info-right-msg .msg-text {
+          font-size: 14px;
+          padding: 40px 0 40px 96px; }
+          .mj-leddeng-info ul li .info-right-msg .msg-text p {
+            line-height: 35px;
+            margin: 0;
+            height: 35px; }
+            .mj-leddeng-info ul li .info-right-msg .msg-text p b {
+              float: left;
+              width: 180px;
+              font-weight: normal; }
+      .mj-leddeng-info ul li.info-item.border-bottom-null .info-right-msg {
+        border-bottom: 0; }
+
+
+
+.hd {
+    background-color: #f5f5f5;
+}
+.hd .nav-bar {
+    margin-top: 15px;
+    position: relative;
+    height: 50px;
+    color: #616161;
+}
+
+
+
+.nav-bar .title {
+    float: left;
+    _display: inline;
+    margin: 10px 0 0 0;
+}
+.nav-bar .nav {
+    float: right;
+    _display: inline;
+    margin: 10px 0 0 0;
+}
+
+.nav-bar .title h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #424242;
+}
+
+.nav-bar .nav .nav-switch {
+    margin-right: 10px;
+    line-height: 30px;
+}
+
+.btn {
+    display: inline-block;
+    width: 158px;
+    height: 38px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #b0b0b0;
+    font-size: 14px;
+    line-height: 38px;
+    text-align: center;
+    color: #b0b0b0;
+    cursor: pointer;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+}
+
+
+.nav-switch .tab, .nav-switch .link {
+    color: #616161;
+}
+.btn-primary:focus, .btn-primary:hover {
+    color: #FFFFFF;
+}
+.nav-switch .tab-active {
+    color: #ff6700;
+    cursor: default;
+}
+.nav-switch .separator {
+    margin: 0 5px;
+    color: #eee;
+    font-family: sans-serif;
+}
+.btn-primary {
+    background: #ff6700;
+    border-color: #ff6700;
+    color: #fff;
+}
+
+.btn-small {
+    width: 118px;
+    height: 28px;
+    font-size: 12px;
+    line-height: 28px;
+}
+
+/*new css style*/
+.yee-mijia-1{
+    position: absolute;
+    left: 20%;
+    top:27%;
+    width: 80%;
+    text-align: left;
+    color: #333333;
+}
+.yee-mijia-1 .yee-mijia-1-name{
+    font-size: 42px;
+    opacity: 1;
+    line-height: 1;
+}
+.yee-mijia-1 .yee-mijia-1-title{
+    font-size: 22px;
+    opacity: 0.6;
+    line-height: 1;
+    padding-top: 30px;
+}
+.yee-mijia-1 .yee-mijia-1-intro{
+    font-size: 16px;
+    opacity: 0.8;
+    line-height: 16px;
+    padding-top: 20px;
+}
+.yee-mijia-2{
+    position: absolute;
+    left: 50%;
+    top:27%;
+    width: 35%;
+    text-align: left;
+    color: #333333;
+}
+.yee-mijia-2 .yee-mijia-2-title{
+    font-size: 22px;
+    opacity: 0.6;
+    line-height: 32px;
+    padding-top: 30px;
+}
+.yee-mijia-2 .yee-mijia-2-body{
+    font-size: 14px;
+    opacity: 0.8;
+    line-height: 24px;
+    padding-top: 20px;
+}
+.yee-mijia-2-special{
+    position: absolute;
+    left: 50%;
+    top:70%;
+    width: 40%;
+    text-align: left;
+}
+.yee-mijia-2-special .special-title{
+    padding-top: 20%;
+    color: #EE232D;
+    font-size: 20px;
+    opacity: 0.8;
+}
+.yee-mijia-2-special .special-body{
+    color: #333333;
+    font-size: 14px;
+    opacity: 0.6;
+}
+
+.yee-page-img-lists{
+    width: 1221px;
+}
+.yee-page-img-lists div{
+    float: left;
+}
+.yee-page-img-lists div.active{
+    webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: transform 1s;
+    -moz-transition: transform 1s;
+    -ms-transition: transform 1s;
+    -o-transition: transform 1s;
+    transition: transform 1s;
+}
+.yee-page-img-list-1{
+    width: 435px;
+    height:351px;
+    background: url(../img/03-1.png) no-repeat 0 0;
+}
+.yee-page-img-list-2{
+    height:351px;
+    width: 332px;
+    background: url(../img/03-2.png) no-repeat 0 0;
+}
+.yee-page-img-list-3{
+    width: 435px;
+    height:351px;
+    background: url(../img/03-3.png) no-repeat 0 0;
+}
+.yee-mijia-3{
+    position: absolute;
+    left: 12.5%;
+    top: 7%;
+    width: 75%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.yee-mijia-3 .yee-mijia-3-title{
+    font-size: 28px;
+    opacity: 0.8;
+    line-height: 32px;
+    padding-top: 30px;
+}
+.yee-mijia-3 .yee-mijia-3-subtitle{
+    font-size: 20px;
+    opacity: 0.6;
+    line-height: 24px;
+    padding-top: 14px;
+}
+.yee-mijia-3 .yee-mijia-3-body{
+    font-size: 16px;
+    opacity: 0.6;
+    line-height: 24px;
+    padding-top: 30px;
+}
+.yee-mijia-3-video{
+    position: absolute;
+    left: 47%;
+    top: 58%;
+    cursor: pointer;
+}
+
+.yee-mijia-4{
+  position: absolute;
+  left: 12.5%;
+  top: 7%;
+  width: 75%;
+  text-align: center;
+  color: #FFFFFF;
+}
+.yee-mijia-4 .yee-mijia-4-title{
+  font-size: 28px;
+  opacity: 0.6;
+  line-height: 32px;
+  padding-top: 30px;
+}
+.yee-mijia-4-bottom{
+    position: absolute;
+    left: 25%;
+    top: 80%;
+    width: 55% !important;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 24px;
+}
+.yee-mijia-4-bottom img{
+    margin-bottom: 3px;
+}
+.yee-mijia-4-bottom .orange{
+    color: #FF4A00;
+    min-width: 150px;
+}
+.yee-mijia-4-bottom .blue{
+    color: #245A83;
+    min-width: 210px;
+}
+.yee-mijia-4-bottom .green{
+    color: #157A53;
+    min-width: 150px;
+}
+.yee-mijia-5{
+    position: absolute;
+    left: 20%;
+    top:7%;
+    width: 60%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.yee-mijia-5 .yee-mijia-5-title{
+    font-size: 22px;
+    opacity: 0.6;
+    line-height: 32px;
+    padding-top: 30px;
+}
+.yee-mijia-5 .yee-mijia-5-body{
+    font-size: 14px;
+    opacity: 0.8;
+    line-height: 24px;
+    padding-top: 20px;
+}
+.yee-mijia-5-mode-controller{
+    position: absolute;
+    left: 27.5%;
+    top:43%;
+    width: 440px;
+    height:98px;
+    text-align: center;
+    background: url(../img/05-controller-bg.png) no-repeat center center;
+    background-size: cover;
+}
+.yee-mijia-5-mode-controller .am-g{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+}
+.yee-mijia-5-mode-controller .am-u-sm-3{
+    padding:0;
+}
+.yee-mijia-5-mode-controller .am-thumbnail{
+    background-color: transparent;
+    cursor: pointer;
+}
+.yee-mijia-5-mode-controller .am-thumbnail-caption{
+    color: #333333;
+    opacity: 0.6;
+    font-size: 12px;
+    padding-top: 5px;
+}
+.yee-mijia-5-mode-intro{
+    position: absolute;
+    left: 28%;
+    top:60%;
+    width: 44%;
+    font-size: 12px;
+    text-align: left;
+    opacity: 0.6;
+    display: none;
+}
+.yee-mijia-5-mode-intro-1{
+    display: block;
+}
+.yee-mijia-5-mode-intro-3{
+    left: 66%;
+    top:46%;
+    width: 30%;
+    color:#ffffff;
+}
+
+.yee-mijia-6{
+    position: absolute;
+    left: 20%;
+    top:35%;
+    width: 60%;
+    text-align: center;
+    color: #333333;
+}
+.yee-mijia-6 .yee-mijia-6-title{
+    font-size: 28px;
+    opacity: 0.8;
+    line-height: 36px;
+}
+.yee-mijia-6 .yee-mijia-6-subtitle{
+    font-size: 20px;
+    opacity: 0.7;
+    line-height: 24px;
+    padding-top: 14px;
+}
+.yee-mijia-6 .yee-mijia-6-body{
+    font-size: 16px;
+    opacity: 0.6;
+    line-height: 24px;
+    padding-top: 20px;
+}
+.yee-mijia-6-accuracy{
+    position: absolute;
+    left: 40%;
+    top:55%;
+    width: 20%;
+}
+.yee-mijia-6-accuracy .num{
+    color: #FE581A;
+    font-size: 70px;
+    line-height: 1;
+}
+.yee-mijia-6-accuracy span{
+    color: #FE581A;
+    font-size:24px;
+}
+.yee-mijia-6-accuracy .name{
+    color: #333333;
+    font-size: 12px;
+    padding-top: 5px;
+}
+.yee-mijia-6-accuracy-left{
+    float: left;
+}
+.yee-mijia-6-accuracy-center{
+    border-left: 1px solid #BBBBBB;
+    height:74px;
+    margin-left: 20%;
+    margin-top: 15px;
+    float: left;
+}
+.yee-mijia-6-accuracy-right{
+    float: right;
+}
+.yee-mijia-6-accuracy-step{
+    position: absolute;
+    width: 70%;
+    left: 15%;
+    bottom: 10%;
+}
+.yee-mijia-6-accuracy-step .am-thumbnail{
+    background-color: transparent;
+}
+.yee-mijia-6-accuracy-step .name{
+    color: #333333;
+    opacity: 0.8;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.yee-mijia-6-accuracy-step .intro{
+    color: #333333;
+    opacity: 0.6;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.yee-mijia-7-div{
+    height: 745px;
+    background: #242525;
+}
+.yee-mijia-7{
+    position: absolute;
+    left: 55%;
+    top:35%;
+    width: 40%;
+    text-align: left;
+    color: #FFFFFF;
+}
+.yee-mijia-7 .yee-mijia-7-title{
+    font-size: 28px;
+    opacity: 0.8;
+    line-height: 36px;
+}
+.yee-mijia-7 .yee-mijia-7-body{
+    font-size: 16px;
+    opacity: 0.6;
+    line-height: 24px;
+    padding-top: 20px;
+}
+.yee-mijia-items{
+    overflow: hidden;
+}
+.yee-mijia-7-animate {
+    width: 1017px;
+    height: 175px;
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng8-01.png) no-repeat center center;
+    background-size:cover;
+    position: absolute;
+    right: 80%;
+    top: 40%;
+    -webkit-transition: all 1.5s 0.5s;
+    -moz-transition: all 1.5s 0.5s;
+    -ms-transition: all 1.5s 0.5s;
+    -o-transition: all 1.5s 0.5s;
+    transition: all 1.5s 0.5s;
+}
+.yee-mijia-7-animate i {
+    width: 935px;
+    height: 105px;
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng8-02.png) no-repeat center center;
+    background-size:cover;
+    margin-top: 37px;
+    display: block;
+    -webkit-transition: all 1s 2.5s;
+    -moz-transition: all 1s 2.5s;
+    -ms-transition: all 1s 2.5s;
+    -o-transition: all 1s 2.5s;
+    transition: all 1s 2.5s;
+}
+.yee-mijia-items.yee-mijia-active .yee-mijia-7-animate {
+    right:50%;
+}
+.yee-mijia-items.yee-mijia-active .yee-mijia-7-animate i {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.yee-mijia-8-div{
+    height: 800px;
+    background: #FFFFFF;
+}
+.yee-mijia-8{
+    position: absolute;
+    left: 20%;
+    top:10%;
+    width: 40%;
+    text-align: left;
+    color: #333333;
+}
+.yee-mijia-8 .yee-mijia-8-title{
+    font-size: 28px;
+    opacity: 0.8;
+    line-height: 36px;
+}
+.yee-mijia-8 span{
+    color:#EE232D;
+}
+.yee-mijia-8 .yee-mijia-8-body{
+    font-size: 16px;
+    opacity: 0.8;
+    line-height: 24px;
+    padding-top: 30px;
+}
+.yee-mijia-8 .yee-mijia-8-more{
+    font-size: 12px;
+    opacity: 0.6;
+    line-height: 16px;
+    padding-top: 20px;
+}
+
+.yee-mijia-8-animate {
+    position: absolute;
+    bottom: 0;
+    background: url(https://yeelight-cloud.b0.upaiyun.com/yeelight.com/resource/img/mj-leddeng9.png) no-repeat;
+    height: 400px;
+    -webkit-transition: transform 1.5s 0.5s;
+    -moz-transition: transform 1.5s 0.5s;
+    -ms-transition: transform 1.5s 0.5s;
+    -o-transition: transform 1.5s 0.5s;
+    transition: transform 1.5s 0.5s;
+}
+.yee-mijia-8-animate-01 {
+    width: 160px;
+    background-position: 0 0;
+    z-index: 21;
+    margin-left: -700px;
+    transform: translate(497px, 0);
+}
+.yee-mijia-8-animate-02 {
+    width: 105px;
+    background-position: -165px 0;
+    z-index: 20;
+    margin-left: -580px;
+    transform: translate(435px, 0);
+}
+.yee-mijia-8-animate-03 {
+    width: 78px;
+    background-position: -274px 0;
+    z-index: 19;
+    margin-left: -506px;
+    transform: translate(390px, 0);
+}
+.yee-mijia-8-animate-04 {
+    width: 78px;
+    background-position: -354px 0;
+    z-index: 18;
+    margin-left: -459px;
+    transform: translate(352px, 0);
+}
+.yee-mijia-8-animate-05 {
+    width: 78px;
+    background-position: -434px 0;
+    z-index: 17;
+    margin-left: -403px;
+    transform: translate(307px, 0);
+}
+.yee-mijia-8-animate-06 {
+    width: 77px;
+    background-position: -513px 0;
+    z-index: 16;
+    margin-left: -358px;
+    transform: translate(268px, 0);
+}
+.yee-mijia-8-animate-07 {
+    width: 76px;
+    background-position: -588px 0;
+    z-index: 15;
+    margin-left: -312px;
+    transform: translate(227px, 0);
+}
+.yee-mijia-8-animate-08 {
+    width: 96px;
+    background-position: -665px 0;
+    z-index: 14;
+    margin-left: -260px;
+    transform: translate(171px, 0);
+}
+.yee-mijia-8-animate-09 {
+    width: 151px;
+    background-position: -765px 0;
+    z-index: 13;
+    margin-left: -200px;
+    transform: translate(127px, 0);
+}
+.yee-mijia-8-animate-10 {
+    width: 90px;
+    background-position: -916px 0;
+    z-index: 12;
+    margin-left: -102px;
+    transform: translate(57px, 0);
+}
+.yee-mijia-8-animate-11 {
+    width: 80px;
+    background-position: -1006px 0;
+    z-index: 11;
+    margin-left: -45px;
+    transform: translate(27px, 0);
+}
+.yee-mijia-8-animate-12 {
+    width: 136px;
+    background-position: -1094px 0;
+    margin-left: -18px;
+    transform: translate(17px, 0);
+}
+.yee-mijia-8-animate-14 {
+    width: 346px;
+    height: 310px;
+    margin-bottom: 390px;
+    background-position: -1579px -115px;
+    margin-left: -18px;
+    transform: translate(0, 25px);
+}
+.yee-mijia-8-animate-15 {
+    width: 346px;
+    height: 130px;
+    margin-bottom: 690px;
+    background-position: -1579px 5px;
+    margin-left: -18px;
+    transform: translate(0, 65px);
+}
+.yee-mijia-8-animate-13 {
+    width: 297px;
+    left: 50%;
+    margin-left: 200px;
+    background-position: -1274px 30px;
+}
+.yee-mijia-items.yee-mijia-active .yee-mijia-8-animate {
+    transform: translate(0, 0);
+}
+
+.yee-mijia-9{
+    position: absolute;
+    left: 10%;
+    top:10%;
+    width: 80%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.yee-mijia-9 .yee-mijia-9-title{
+    font-size: 28px;
+    opacity: 0.8;
+    line-height: 36px;
+}
+
+.yee-mijia-9 .yee-mijia-9-body{
+    font-size: 16px;
+    opacity: 0.8;
+    line-height: 24px;
+    padding-top: 30px;
+}
+
+.yee-mijia-9-animate{
+    position: absolute;
+    left: 76%;
+    top:54%;
+    color: #ffffff;
+    font-size: 14px;
+    opacity: 0.6;
+}
+.yee-mijia-9-animate-bg-01{
+    padding-top: 12px;
+    margin-left: -10px;
+}
+.yee-mijia-9-animate-bg-02{
+    padding-top: 25px;
+    margin-left: -70px;
+}
+.yee-mijia-9-animate-bg-03{
+    padding-top: 18px;
+    margin-left: -10px;
+}
+.yee-mijia-9-animate-bg-04{
+    padding-top: 22px;
+    margin-left: 0px;
+}
+
+
+.yee-mijia-10-div{
+    background-color: #EFEFEF;
+    height: 600px;
+}
+.yee-mijia-10{
+    position: absolute;
+    left: 10%;
+    top:10%;
+    width: 80%;
+    text-align: center;
+    color: #333333;
+}
+.yee-mijia-10 .yee-mijia-10-title{
+    font-size: 28px;
+    opacity: 0.8;
+    line-height: 36px;
+}
+.yee-mijia-10-honors{
+    position: absolute;
+    left: 15%;
+    bottom:10%;
+    width: 70%;
+    text-align: center;
+    background: url(../img/10-line.png) no-repeat center center;
+    background-size: cover;
+}
+.yee-mijia-10-honors .am-thumbnail{
+    background-color: transparent;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.yee-mijia-10-honors img{
+    /*width: 50px;
+    height: 50px;*/
+}
+.yee-mijia-10-honors .name{
+    color: #333333;
+    opacity: 0.8;
+    font-size: 16px;
+}
+.yee-mijia-10-honors .intro{
+    color: #333333;
+    opacity: 0.6;
+    font-size: 12px;
+    padding-top: 10px;
+}
+.yee-mijia-11{
+    position: absolute;
+    left: 30%;
+    top:25%;
+    width: 60%;
+    text-align: left;
+    color: #333333;
+}
+.yee-mijia-11 .yee-mijia-11-title{
+    font-size: 28px;
+    opacity: 0.8;
+    color: #212121;
+}
+.yee-mijia-11 .yee-mijia-11-body{
+    font-size: 16px;
+    opacity: 0.8;
+    color: #000000;
+    padding-top: 20px;
+}
